@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Chess12x.App/Chess12x.App.csproj">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="*|x86" Project="x86" />
+    <Deploy />
+  </Project>
+  <Project Path="Chess12x.AI/Chess12x.AI.csproj" />
+  <Project Path="Chess12x.Core/Chess12x.Core.csproj" />
+  <Project Path="Chess12x.Tests/Chess12x.Tests.csproj" />
+</Solution>

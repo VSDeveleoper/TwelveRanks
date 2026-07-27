@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Chess12x.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Chess12x.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

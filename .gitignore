@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Test output
+TestResults/
+*.trx
+coverage/
+*.coverage
+*.coveragexml
+
+# Packaging and publishing output
+AppPackages/
+BundleArtifacts/
+Publish/
+
+# Local tooling
+.idea/
+.vscode/
+*.log
