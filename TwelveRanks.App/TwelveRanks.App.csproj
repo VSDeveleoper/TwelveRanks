@@ -1,0 +1,146 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.26100.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <RootNamespace>TwelveRanks.App</RootNamespace>
+    <Version>0.0.1</Version>
+    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+    <FileVersion>0.0.1.0</FileVersion>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets\TwelveRanks.ico</ApplicationIcon>
+    <PackageIcon>Assets\PackageIcon.png</PackageIcon>
+    <Platforms>x86;x64;ARM64</Platforms>
+    <RuntimeIdentifiers>win-x86;win-x64;win-arm64</RuntimeIdentifiers>
+    <PublishProfile>win-$(Platform).pubxml</PublishProfile>
+    <UseWinUI>true</UseWinUI>
+    <WinUISDKReferences>false</WinUISDKReferences>
+    <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
+    <EnableMsixTooling>true</EnableMsixTooling>
+    <!-- Keep app translations in each architecture package. The current MSIX
+         BuildTools language-map filter removes every split language pack. -->
+    <AppxBundleAutoResourcePackageQualifiers>Scale|DXFeatureLevel</AppxBundleAutoResourcePackageQualifiers>
+    <DefineConstants>$(DefineConstants);DISABLE_XAML_GENERATED_MAIN</DefineConstants>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\PackageIcon.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\TwelveRanks.ico" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Update="Assets\Pieces\Source\minister.svg" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Update="Assets\Pieces\Source\chancellor.svg" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Remove="Assets\Licenses\NotoSansSymbols2-OFL.txt" />
+    <Content Include="..\THIRD-PARTY-NOTICES.md" Link="THIRD-PARTY-NOTICES.md" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="THIRD-PARTY-NOTICES.md" />
+    <Content Include="..\DEVELOPERS_README.md" Link="DEVELOPERS_README.md" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="DEVELOPERS_README.md" />
+    <Content Include="..\LICENSE" Link="LICENSE" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="LICENSE" />
+    <Content Include="Licenses\MIT.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\MIT.txt" />
+    <Content Include="Licenses\NotoSansSymbols2-OFL.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\NotoSansSymbols2-OFL.txt" />
+    <Content Include="Licenses\MicrosoftDotNetLibraryLicense.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\MicrosoftDotNetLibraryLicense.txt" />
+    <Content Include="Licenses\MicrosoftDotNetLibraryThirdPartyNotices.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\MicrosoftDotNetLibraryThirdPartyNotices.txt" />
+    <Content Include="Licenses\MicrosoftDotNetRuntimeLicense.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\MicrosoftDotNetRuntimeLicense.txt" />
+    <Content Include="Licenses\MicrosoftDotNetRuntimeThirdPartyNotices.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\MicrosoftDotNetRuntimeThirdPartyNotices.txt" />
+    <Content Include="Licenses\Microsoft-WebView2-LICENSE.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\Microsoft-WebView2-LICENSE.txt" />
+    <Content Include="Licenses\Microsoft-WebView2-NOTICE.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\Microsoft-WebView2-NOTICE.txt" />
+    <Content Include="$(PkgMicrosoft_WindowsAppSDK_Runtime)\license.txt" Condition="Exists('$(PkgMicrosoft_WindowsAppSDK_Runtime)\license.txt')" Link="Licenses\Microsoft-WindowsAppSDK-Runtime-license.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\Microsoft-WindowsAppSDK-Runtime-license.txt" />
+    <Content Include="$(PkgMicrosoft_WindowsAppSDK_Runtime)\NOTICE.txt" Condition="Exists('$(PkgMicrosoft_WindowsAppSDK_Runtime)\NOTICE.txt')" Link="Licenses\Microsoft-WindowsAppSDK-Runtime-NOTICE.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\Microsoft-WindowsAppSDK-Runtime-NOTICE.txt" />
+    <Content Include="$(PkgMicrosoft_WindowsAppSDK_WinUI)\license.txt" Condition="Exists('$(PkgMicrosoft_WindowsAppSDK_WinUI)\license.txt')" Link="Licenses\Microsoft-WindowsAppSDK-WinUI-license.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\Microsoft-WindowsAppSDK-WinUI-license.txt" />
+    <Content Include="$(PkgMicrosoft_WindowsAppSDK_WinUI)\NOTICE.txt" Condition="Exists('$(PkgMicrosoft_WindowsAppSDK_WinUI)\NOTICE.txt')" Link="Licenses\Microsoft-WindowsAppSDK-WinUI-NOTICE.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" Pack="true" PackagePath="Licenses\Microsoft-WindowsAppSDK-WinUI-NOTICE.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Manifest Include="$(ApplicationManifest)" />
+    <None Include="Assets\PackageIcon.png" Pack="true" PackagePath="Assets\" />
+    <None Include="..\README.md" Pack="true" PackagePath="" Link="README.md" />
+  </ItemGroup>
+
+  <!--
+    Defining the "Msix" ProjectCapability here allows the Single-project MSIX Packaging
+    Tools extension to be activated for this project even if the Windows App SDK Nuget
+    package has not yet been restored.
+  -->
+  <ItemGroup Condition="'$(DisableMsixProjectCapabilityAddedByProject)'!='true' and '$(EnableMsixTooling)'=='true'">
+    <ProjectCapability Include="Msix" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.WinUI.Controls.SettingsControls" Version="8.2.251219" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.28000.2526" />
+    <!-- Keep the aggregate package current for Toolkit dependency resolution,
+         but consume WinUI/runtime only through the explicit components below. -->
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="2.3.1" ExcludeAssets="all" PrivateAssets="all">
+      <IncludeAssets>none</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.WindowsAppSDK.Runtime" Version="2.3.1" GeneratePathProperty="true" />
+    <PackageReference Include="Microsoft.WindowsAppSDK.WinUI" Version="2.3.2" GeneratePathProperty="true" />
+    <!-- The aggregate SDK includes optional feature families that this app
+         does not use. NuGet 10 pruning removes them and their dependency trees
+         from restore and therefore from the self-contained Store payload. -->
+    <PrunePackageReference Include="Microsoft.WindowsAppSDK.AI" Version="2.3.4" />
+    <PrunePackageReference Include="Microsoft.WindowsAppSDK.ML" Version="2.1.74" />
+    <PrunePackageReference Include="Microsoft.WindowsAppSDK.DWrite" Version="2.1.0" />
+    <PrunePackageReference Include="Microsoft.WindowsAppSDK.Widgets" Version="2.0.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TwelveRanks.Computer\TwelveRanks.Computer.csproj" />
+    <ProjectReference Include="..\TwelveRanks.Core\TwelveRanks.Core.csproj" />
+  </ItemGroup>
+
+  <!--
+    Defining the "HasPackageAndPublishMenuAddedByProject" property here allows the Solution
+    Explorer "Package and Publish" context menu entry to be enabled for this project even if
+    the Windows App SDK Nuget package has not yet been restored.
+  -->
+  <PropertyGroup Condition="'$(DisableHasPackageAndPublishMenuAddedByProject)'!='true' and '$(EnableMsixTooling)'=='true'">
+    <HasPackageAndPublishMenu>true</HasPackageAndPublishMenu>
+  </PropertyGroup>
+
+  <!-- Publish Properties -->
+  <PropertyGroup>
+    <PublishReadyToRun Condition="'$(Configuration)' == 'Debug'">False</PublishReadyToRun>
+    <PublishReadyToRun Condition="'$(Configuration)' != 'Debug'">True</PublishReadyToRun>
+    <!-- WinUI/Windows SDK dependency assemblies are not trim-clean. Preserve
+         them for Store reliability instead of suppressing IL2104 warnings. -->
+    <PublishTrimmed>False</PublishTrimmed>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
+    <StartupObject>TwelveRanks.App.Program</StartupObject>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Authors>A. Sharaf</Authors>
+    <Title>Twelve Ranks</Title>
+    <Description>A modern 12 × 12 chess variant for Windows featuring the Minister, Chancellor, and Royal Guard pawns, with local two-player and fully offline conventional computer play.</Description>
+    <Copyright>Copyright © 2026 A. Sharaf</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageTags>chess;chess-variant;12x12;board-game;strategy-game;windows;winui;winui-3;dotnet;offline-game;open-source;apache-2.0</PackageTags>
+    <PackageReleaseNotes>Initial development preview:
+- Playable 12 × 12 board with 48 pieces.
+- Minister, Chancellor, and Royal Guard pawns with their custom rules.
+- Local two-player play and a built-in conventional computer opponent with varied opening play, entirely offline.
+- Legal-move validation for check, checkmate, stalemate, castling, en passant, repetition, the fifty-move rule, and insufficient material.
+- Undo, redo, six promotion choices, localized UI, optional board coordinates, distinct move sounds, single-instance startup, and exit confirmation.</PackageReleaseNotes>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x86'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+</Project>

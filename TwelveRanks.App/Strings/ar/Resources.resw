@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>نسخة حديثة من الشطرنج برقعة 12 × 12 للعب المحلي واللعب ضد الكمبيوتر.</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>الرئيسية</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>اللعبة</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>الإعدادات</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>اختر طريقة بدء لعبة جديدة على رقعة 12 × 12.</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>بدء لعبة محلية بين لاعبين</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>لاعبان — محليًا</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>تشاركا هذا الجهاز والعبا على الرقعة نفسها.</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>رقعة اللعب</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>اختر نمط اللعب من الصفحة الرئيسية.</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>دور الأبيض</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>تراجع</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>التراجع عن النقلة</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>تراجع (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>إعادة</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>إعادة النقلة</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>إعادة (Ctrl+Y أو Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>القطع التي أسرها الأبيض</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>لا توجد قطع مأخوذة</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>القطع التي أسرها الأسود</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>لا توجد قطع مأخوذة</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>الإعدادات</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>إعدادات التطبيق</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>تُحفظ اختيارات اللغة وإحداثيات الرقعة وأصوات النقلات تلقائيًا.</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>اللغة</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>اختر اللغة المستخدمة في جميع أجزاء Twelve Ranks.</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>إعدادات اللغة</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>لغة التطبيق</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>تُطبّق تغييرات اللغة بعد إعادة تشغيل التطبيق.</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>لغة التطبيق</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>استخدام لغة Windows (موصى به)</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>إعادة التشغيل مطلوبة</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>أعد تشغيل Twelve Ranks لتطبيق اللغة المختارة في كل مكان.</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>إعادة التشغيل الآن</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>إعادة تشغيل Twelve Ranks الآن</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>إعادة التشغيل مطلوبة</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>أعد تشغيل Twelve Ranks لتطبيق اللغة المختارة في كل مكان.</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>تعذرت إعادة التشغيل</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>تعذرت إعادة تشغيل Twelve Ranks ({0}). أغلق التطبيق وافتحه مجددًا لتطبيق اللغة.</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>الرقعة</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>اعرض رموز الأعمدة وأرقام الصفوف حول الرقعة.</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>إعدادات الرقعة</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>إظهار إحداثيات الرقعة</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>اعرض رموز الأعمدة وأرقام الصفوف حول الرقعة.</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>إظهار إحداثيات الرقعة</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>تشغيل</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>إيقاف</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>الأخضر الكلاسيكي</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>الخشب الدافئ</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>تباين عالٍ</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>اللعبة</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>اضبط ملاحظات النقلات وتأكيدات اللعبة.</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>إعدادات اللعبة</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>تشغيل أصوات النقلات</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>شغّل تنبيهًا صوتيًا بعد النقلة.</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>تشغيل أصوات النقلات</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>تشغيل</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>إيقاف</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>التأكيد قبل الاستسلام</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>اطلب التأكيد قبل إنهاء اللعبة بالاستسلام.</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>التأكيد قبل الاستسلام</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>تشغيل</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>إيقاف</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. جميع الحقوق محفوظة.</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>حول Twelve Ranks</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>بيئة التشغيل والنشر</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>تتضمن حزم الإصدار لمعمارية x86 وx64 وARM64 مكونات وقت تشغيل .NET 10 وWindows App SDK.</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · ‏.NET ذاتية الاحتواء</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>التبعيات والمراجع</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>‏.NET 10 Runtime — مضمّنة مع حزم الإصدار</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 وWinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>رسومات Noto Sans Symbols 2 — ترخيص SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>تتضمن النسخة المثبتة ملفات تراخيص الأطراف الخارجية ونِسب الأعمال إلى أصحابها.</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>ملاحظات الإصدار</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>وسّع القسم لمراجعة التغييرات في كل إصدار من Twelve Ranks.</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>ملاحظات الإصدار وسجل الإصدارات</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>معاينة التطوير الأولى لأساس Twelve Ranks القابل للعب.</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>إضافة رقعة قابلة للعب بمقاس 12 × 12 تضم 48 قطعة.</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>إضافة بيادق الحرس الملكي والوزير والمستشار بقواعد حركتها وتبادلها المخصصة.</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>إضافة اللعب المحلي بين لاعبين وخصم كمبيوتر تقليدي يعمل دون اتصال بالكامل.</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>إضافة التحقق من النقلات القانونية ومعالجة حالات الكش والمات والتعادل والتبييت والأخذ بالتجاوز والتكرار وقاعدة الخمسين نقلة وعدم كفاية القطع.</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>إضافة التراجع والإعادة بالكامل وترقية البيدق إلى الملكة أو الرخ أو الفيل أو الحصان أو الوزير أو المستشار.</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>دور {0}</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>{0} في حالة كش</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>كش مات — فوز {0}</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>تعادل بالخنق</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>تعادل بسبب تكرار الوضع ثلاث مرات</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>تعادل وفق قاعدة الخمسين نقلة</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>تعادل بسبب عدم كفاية القطع</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>لعبة محلية بين لاعبين</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>الأبيض</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>الأسود</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>الملك</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>الملكة</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>الرخ</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>الفيل</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>الحصان</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>البيدق</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>الوزير</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>المستشار</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>بيدق الحرس الملكي</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{1} — الجانب {0}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>فارغ</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>محدد</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>تبادل قانوني للوزير</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>أخذ قانوني</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>وجهة قانونية</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}، {1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}، {1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>انتهت اللعبة. يمكن فحص مربع الرقعة هذا.</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>نشّط لتبادل الوزير المحدد مع هذه القطعة: {0}.</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>اضغط Enter أو Space لتحديد مربع الرقعة هذا.</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>خيارات قطعة الترقية</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>اختر القطعة التي سيُرقّى إليها هذا البيدق.</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>ترقية البيدق</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>ترقية البيدق</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>ترقية</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>إلغاء</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>رئيس الأساقفة</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>الترقية إلى {0}</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>اختر {0} بوصفها قطعة الترقية.</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>الخروج من Twelve Ranks؟</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>هل أنت متأكد من أنك تريد الخروج من اللعبة؟</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>خروج</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>إلغاء</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>إنهاء اللعبة</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>إنهاء اللعبة الحالية</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>إنهاء اللعبة دون استسلام</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>استسلم {0} — فاز {1}</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>استسلام {0}</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>الاستسلام؟</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>هل أنت متأكد من أن {0} يريد الاستسلام؟ سيفوز {1}.</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>استسلام</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>إنهاء اللعبة؟</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>هل تريد إنهاء هذه اللعبة دون إعلان فائز؟ ستتم إزالة اللعبة غير المكتملة.</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>إنهاء اللعبة</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>تعذر إنهاء اللعبة</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>تعذرت إزالة اللعبة المحفوظة. ستظل اللعبة مفتوحة.</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>إلغاء</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>إغلاق</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>تعذر حفظ هذه النقلة. يُرجى المحاولة مرة أخرى قبل إغلاق اللعبة.</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>تعذر على Twelve Ranks استبدال اللعبة المحفوظة السابقة. لم تبدأ لعبة جديدة.</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>حفظ اللعبة غير متاح</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>القواعد</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>استئناف اللعبة غير المكتملة</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>تابع لعبتك غير المكتملة من آخر نقلة محفوظة.</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>ما تزال هناك لعبة سابقة قيد التقدم. هل تريد استئنافها؟</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>لعبة جديدة</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>استئناف</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>لعبة غير مكتملة</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>استئناف اللعبة</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>يبدأ كل جانب بـ 12 قطعة في الصف الخلفي و12 بيدقًا. يضيف الجيش الأوسع وزيرين ومستشارين لكل جانب.</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>رقعة 12 × 12</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>يتحرك المستشار ويأخذ مثل الرخ أو الحصان.</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>المستشار</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>يتحرك الوزير ويأخذ مثل الفيل أو الحصان. ويمكنه أيضًا تبديل مكانه مع ملك أو ملكة صديقين يمكنه الوصول إليهما، بشرط أن تترك النقلة الملك في أمان.</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>الوزير</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>دليل مختصر للقواعد التي تختلف عن الشطرنج العادي.</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>كيفية لعب Twelve Ranks</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>عندما يصل بيدق عادي إلى الصف الأبعد، يُرقّى إلى ملكة أو رخ أو فيل أو حصان أو وزير أو مستشار.</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>الترقية</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>البيادق أمام الملكة والملك هي حرس ملكي. يمكنها التحرك مربعًا واحدًا إلى الأمام أو الخلف أو قطريًا، ويمكنها التقدم مربعين خاليين إلى الأمام من أي صف. ولا تُرقّى.</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>بيادق الحرس الملكي</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>ضع ملك الخصم في كش مات. تنطبق قواعد الشطرنج العادية، بما في ذلك الكش والتبييت والأخذ بالتجاوز والتعادل بالخنق وقواعد التعادل القياسية.</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>الهدف لم يتغير</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>بدء لعبة ضد الكمبيوتر</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>اللعب ضد الكمبيوتر</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>العب بالأبيض ضد خصم الكمبيوتر التقليدي المدمج.</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>اختر نمط اللعب</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>كيف تريد أن تلعب؟</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>لاعبان — محليًا</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>ضد الكمبيوتر</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>الكمبيوتر يفكر</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>إضافة رسومات قطع قابلة للتحجيم ولوحات القطع المأخوذة وتمييزات الرقعة وحالة تفكير الكمبيوتر وأداة مرئية لاختيار الترقية.</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>الكمبيوتر يفكر…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>استسلام</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>أنت تلعب بالأبيض — الكمبيوتر يلعب بالأسود</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>اختر نمط اللعب من الصفحة الرئيسية.</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>لعبة جديدة</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>لم يتمكن الكمبيوتر من العثور على نقلة قانونية.</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>لم تعد نقلة الكمبيوتر قانونية.</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>واجه خصم الكمبيوتر خطأً.</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>الكمبيوتر يفكر. إدخال الرقعة معطل مؤقتًا.</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>يتحكم الكمبيوتر بالأسود. إدخال الرقعة معطل مؤقتًا.</value></data>
+</root>

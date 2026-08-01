@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>Một biến thể cờ vua 12 × 12 hiện đại dành cho chơi cục bộ và đấu với máy tính.</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>Trang chủ</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>Ván đấu</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>Cài đặt</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>Chọn cách bạn muốn bắt đầu một ván cờ 12 × 12 mới.</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Bắt đầu ván cờ cục bộ hai người chơi</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>Hai người chơi — cục bộ</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>Cùng dùng thiết bị này và chơi trên một bàn cờ.</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>Bàn cờ</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>Chọn chế độ chơi từ Trang chủ.</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>Lượt của Trắng</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>Hoàn tác</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Hoàn tác nước đi</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Hoàn tác (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>Làm lại</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Làm lại nước đi</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Làm lại (Ctrl+Y hoặc Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>Quân Trắng đã bắt</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>Chưa bắt quân nào</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>Quân Đen đã bắt</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>Chưa bắt quân nào</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Cài đặt</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>Cài đặt ứng dụng</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>Ngôn ngữ, tọa độ bàn cờ và âm thanh nước đi được lưu tự động.</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>Ngôn ngữ</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>Chọn ngôn ngữ dùng trong toàn bộ Twelve Ranks.</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Cài đặt ngôn ngữ</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>Ngôn ngữ ứng dụng</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>Thay đổi ngôn ngữ sẽ được áp dụng sau khi khởi động lại ứng dụng.</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Ngôn ngữ ứng dụng</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>Dùng ngôn ngữ Windows (khuyên dùng)</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>Cần khởi động lại</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>Khởi động lại Twelve Ranks để áp dụng ngôn ngữ đã chọn ở mọi nơi.</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>Khởi động lại ngay</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Khởi động lại Twelve Ranks ngay</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>Cần khởi động lại</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>Khởi động lại Twelve Ranks để áp dụng ngôn ngữ đã chọn ở mọi nơi.</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>Khởi động lại không thành công</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Không thể khởi động lại Twelve Ranks ({0}). Hãy đóng rồi mở lại ứng dụng để áp dụng ngôn ngữ.</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>Bàn cờ</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>Hiển thị nhãn cột và hàng xung quanh bàn cờ.</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Cài đặt bàn cờ</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>Hiển thị tọa độ bàn cờ</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>Hiển thị nhãn cột và hàng xung quanh bàn cờ.</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Hiển thị tọa độ bàn cờ</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>Bật</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>Tắt</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>Xanh lá cổ điển</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>Gỗ tông ấm</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>Độ tương phản cao</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>Ván đấu</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>Cấu hình phản hồi nước đi và xác nhận trong ván đấu.</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Cài đặt ván đấu</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>Phát âm thanh nước đi</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>Phát phản hồi âm thanh sau một nước đi.</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Phát âm thanh nước đi</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>Bật</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>Tắt</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>Xác nhận trước khi xin thua</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>Yêu cầu xác nhận trước khi kết thúc ván đấu bằng cách xin thua.</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Xác nhận trước khi xin thua</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>Bật</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>Tắt</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. Bảo lưu mọi quyền.</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Giới thiệu Twelve Ranks</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>Môi trường chạy và triển khai</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>Các thành phần thời gian chạy .NET 10 và Windows App SDK được tích hợp trong các gói Release dành cho x86, x64 và ARM64.</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · .NET độc lập</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>Phần phụ thuộc và tham chiếu</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — được đóng gói cùng các gói Phát hành</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 và WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Đồ họa Noto Sans Symbols 2 — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>Các tệp giấy phép và ghi công của bên thứ ba được cài đặt cùng ứng dụng.</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>Ghi chú phát hành</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>Mở rộng để xem các thay đổi trong từng phiên bản Twelve Ranks.</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Ghi chú phát hành và lịch sử phiên bản</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>Bản xem trước phát triển ban đầu của nền tảng Twelve Ranks có thể chơi được.</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>Giới thiệu bàn cờ 12 × 12 có thể chơi được với 48 quân.</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>Đã thêm Tốt Cận vệ Hoàng gia, Bộ trưởng và Tể tướng cùng các quy tắc di chuyển và hoán đổi riêng.</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>Đã thêm chế độ cục bộ hai người chơi và đối thủ máy tính thông thường hoạt động hoàn toàn ngoại tuyến.</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>Đã thêm xác thực nước đi hợp lệ và xử lý trạng thái ván đấu cho chiếu, chiếu hết, hết nước đi, nhập thành, bắt tốt qua đường, lặp lại thế cờ, luật năm mươi nước và không đủ lực lượng chiếu hết.</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>Đã thêm hoàn tác và làm lại đầy đủ, cùng khả năng phong cấp thành Hậu, Xe, Tượng, Mã, Bộ trưởng hoặc Tể tướng.</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>Lượt của {0}</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>{0} đang bị chiếu</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>Chiếu hết — {0} thắng</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>Hết nước đi — hòa</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>Hòa do lặp lại thế cờ ba lần</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>Hòa theo luật năm mươi nước</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>Hòa do không đủ lực lượng chiếu hết</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>Ván cờ cục bộ hai người chơi</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>Trắng</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>Đen</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>Vua</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>Hậu</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>Xe</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>Tượng</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>Mã</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>Tốt</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>Bộ trưởng</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>Tể tướng</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>Tốt Cận vệ Hoàng gia</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{1} {0}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>trống</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>đã chọn</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>hoán đổi Bộ trưởng hợp lệ</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>nước bắt quân hợp lệ</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>ô đích hợp lệ</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>Ván đấu đã kết thúc. Ô bàn cờ này vẫn có thể được kiểm tra.</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>Kích hoạt để hoán đổi Bộ trưởng đã chọn với {0} này.</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>Nhấn Enter hoặc phím Cách để chọn ô bàn cờ này.</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>Các lựa chọn quân phong cấp</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>Chọn quân phong cấp cho Tốt này.</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>Phong cấp Tốt</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>Phong cấp Tốt</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>Phong cấp</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>Hủy</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>Tổng giám mục</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>Phong cấp thành {0}</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>Chọn {0} làm quân phong cấp.</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>Thoát Twelve Ranks?</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>Bạn có chắc chắn muốn thoát trò chơi không?</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>Thoát</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>Hủy</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>Kết thúc ván</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Kết thúc ván hiện tại</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Kết thúc ván mà không xin thua</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0} xin thua — {1} thắng</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>{0} xin thua</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>Xin thua?</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>Bạn có chắc {0} muốn xin thua? {1} sẽ thắng.</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>Xin thua</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>Kết thúc ván?</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>Kết thúc ván này mà không tuyên bố người thắng? Ván chưa hoàn tất sẽ bị xóa.</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>Kết thúc ván</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>Không thể kết thúc ván</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>Không thể xóa ván đã lưu. Ván sẽ vẫn mở.</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>Hủy</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>Đóng</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>Không thể lưu nước đi này. Vui lòng thử lại trước khi đóng ván chơi.</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks không thể thay thế ván đã lưu trước đó. Không có ván mới nào được bắt đầu.</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>Không thể lưu ván chơi</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>Luật chơi</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Tiếp tục ván chưa hoàn thành</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>Tiếp tục ván chưa hoàn thành từ nước đi được lưu gần nhất.</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>Một ván trước đó vẫn đang diễn ra. Bạn có muốn tiếp tục không?</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>Ván mới</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>Tiếp tục</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>Ván chưa hoàn thành</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>Tiếp tục ván chơi</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>Mỗi bên bắt đầu với 12 quân ở hàng sau và 12 quân tốt. Đội quân mở rộng bổ sung hai Bộ trưởng và hai Tể tướng cho mỗi bên.</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>Bàn cờ 12 × 12</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>Tể tướng di chuyển và bắt quân như xe hoặc mã.</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>Tể tướng</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>Bộ trưởng di chuyển và bắt quân như tượng hoặc mã. Quân này cũng có thể đổi chỗ với vua hoặc hậu cùng bên mà nó có thể tới, miễn là nước đi vẫn giữ vua an toàn.</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>Bộ trưởng</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>Hướng dẫn ngắn về những luật khác với cờ vua thông thường.</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Cách chơi Twelve Ranks</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>Một quân tốt thường đến hàng cuối sẽ được phong thành hậu, xe, tượng, mã, Bộ trưởng hoặc Tể tướng.</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>Phong cấp</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>Các quân tốt phía trước hậu và vua là Tốt Cận vệ Hoàng gia. Chúng có thể đi một ô về phía trước, phía sau hoặc theo đường chéo, và có thể tiến hai ô trống về phía trước từ bất kỳ hàng nào. Chúng không được phong cấp.</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>Tốt Cận vệ Hoàng gia</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>Chiếu hết vua đối phương. Các luật cờ vua thông thường được áp dụng, bao gồm chiếu, nhập thành, bắt tốt qua đường, hết nước đi và các luật hòa tiêu chuẩn.</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>Mục tiêu không thay đổi</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Bắt đầu ván cờ đấu với máy tính</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>Đấu với máy tính</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>Chơi quân Trắng và đấu với đối thủ máy tính thông thường được tích hợp sẵn.</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>Chọn chế độ chơi</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>Bạn muốn chơi như thế nào?</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>Hai người chơi — cục bộ</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>Đấu với máy tính</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Máy tính đang suy nghĩ</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>Đã thêm đồ họa quân cờ có thể co giãn, bảng quân bị bắt, tô sáng bàn cờ, trạng thái máy tính đang suy nghĩ và bộ chọn phong cấp trực quan.</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>Máy tính đang suy nghĩ…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>Xin thua</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>Bạn chơi quân Trắng — máy tính chơi quân Đen</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>Chọn chế độ chơi từ Trang chủ.</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>Ván mới</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>Máy tính không tìm được nước đi hợp lệ.</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>Nước đi của máy tính không còn hợp lệ.</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>Đối thủ máy tính đã gặp lỗi.</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>Máy tính đang suy nghĩ. Thao tác trên bàn cờ tạm thời bị vô hiệu hóa.</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>Máy tính điều khiển quân Đen. Thao tác trên bàn cờ tạm thời bị vô hiệu hóa.</value></data>
+</root>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="TwelveRanks.App.Views.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Page.Resources>
+        <Style x:Key="GameModeButtonStyle" TargetType="Button">
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+            <Setter Property="Padding" Value="20,16" />
+            <Setter Property="MinHeight" Value="72" />
+        </Style>
+    </Page.Resources>
+
+    <ScrollViewer>
+        <Grid Padding="48,40">
+            <StackPanel
+                MaxWidth="760"
+                HorizontalAlignment="Center"
+                Spacing="14">
+                <TextBlock
+                    x:Uid="HomeTitle"
+                    HorizontalAlignment="Center"
+                    FontSize="44"
+                    FontWeight="SemiBold" />
+                <TextBlock
+                    x:Uid="HomeSubtitle"
+                    HorizontalAlignment="Center"
+                    Margin="0,0,0,24"
+                    FontSize="18"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                    TextAlignment="Center"
+                    TextWrapping="Wrap" />
+
+                <Button
+                    x:Name="ResumeGameButton"
+                    x:Uid="ResumeGame"
+                    AutomationProperties.AutomationId="ResumeGame"
+                    Click="ResumeGameButton_Click"
+                    Style="{StaticResource GameModeButtonStyle}"
+                    Visibility="Collapsed">
+                    <StackPanel HorizontalAlignment="Stretch" Spacing="4">
+                        <TextBlock
+                            x:Uid="ResumeGameTitle"
+                            FontSize="20"
+                            FontWeight="SemiBold" />
+                        <TextBlock
+                            x:Uid="ResumeGameDescription"
+                            Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                            TextWrapping="Wrap" />
+                    </StackPanel>
+                </Button>
+
+                <Button
+                    x:Uid="NewLocalGame"
+                    AutomationProperties.AutomationId="NewLocalGame"
+                    Click="NewGameButton_Click"
+                    Style="{StaticResource GameModeButtonStyle}"
+                    Tag="LocalTwoPlayer">
+                    <StackPanel HorizontalAlignment="Stretch" Spacing="4">
+                        <TextBlock
+                            x:Uid="LocalGameTitle"
+                            FontSize="20"
+                            FontWeight="SemiBold" />
+                        <TextBlock
+                            x:Uid="LocalGameDescription"
+                            Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                            TextWrapping="Wrap" />
+                    </StackPanel>
+                </Button>
+
+                <Button
+                    x:Uid="NewComputerGame"
+                    AutomationProperties.AutomationId="NewComputerGame"
+                    Click="NewGameButton_Click"
+                    Style="{StaticResource GameModeButtonStyle}"
+                    Tag="Computer">
+                    <StackPanel HorizontalAlignment="Stretch" Spacing="4">
+                        <TextBlock
+                            x:Uid="ComputerGameTitle"
+                            FontSize="20"
+                            FontWeight="SemiBold" />
+                        <TextBlock
+                            x:Uid="ComputerGameDescription"
+                            Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                            TextWrapping="Wrap" />
+                    </StackPanel>
+                </Button>
+
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Page>

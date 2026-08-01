@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>Una variante moderna de ajedrez de 12 × 12 para partidas locales y contra el ordenador.</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>Inicio</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>Partida</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>Configuración</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>Elige cómo quieres iniciar una nueva partida de 12 × 12.</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Iniciar una partida local para dos jugadores</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>Dos jugadores — local</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>Compartid este dispositivo y jugad en el mismo tablero.</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>Tablero de juego</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>Elige un modo de juego en Inicio.</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>Juegan las blancas</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>Deshacer</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Deshacer movimiento</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Deshacer (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>Rehacer</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Rehacer movimiento</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Rehacer (Ctrl+Y o Ctrl+Mayús+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>Capturadas por las blancas</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>No hay piezas capturadas</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>Capturadas por las negras</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>No hay piezas capturadas</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Configuración</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>Configuración de la aplicación</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>El idioma, las coordenadas del tablero y los sonidos de movimiento se guardan automáticamente.</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>Idioma</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>Elige el idioma que se usará en Twelve Ranks.</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Configuración de idioma</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>Idioma de la aplicación</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>Los cambios de idioma se aplican después de reiniciar la aplicación.</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Idioma de la aplicación</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>Usar el idioma de Windows (recomendado)</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>Es necesario reiniciar</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>Reinicia Twelve Ranks para aplicar el idioma seleccionado en toda la aplicación.</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>Reiniciar ahora</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Reiniciar Twelve Ranks ahora</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>Es necesario reiniciar</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>Reinicia Twelve Ranks para aplicar el idioma seleccionado en toda la aplicación.</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>No se pudo reiniciar</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Twelve Ranks no pudo reiniciarse ({0}). Cierra y vuelve a abrir la aplicación para aplicar el idioma.</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>Tablero</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>Muestra las letras de las columnas y los números de las filas alrededor del tablero.</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Configuración del tablero</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>Mostrar coordenadas del tablero</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>Muestra las letras de las columnas y los números de las filas alrededor del tablero.</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Mostrar coordenadas del tablero</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>Activado</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>Desactivado</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>Verde clásico</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>Madera cálida</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>Contraste alto</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>Partida</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>Configura las indicaciones de los movimientos y las confirmaciones de la partida.</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Configuración de la partida</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>Reproducir sonidos de movimiento</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>Reproduce una indicación sonora después de un movimiento.</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Reproducir sonidos de movimiento</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>Activado</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>Desactivado</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>Confirmar antes de abandonar</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>Pide confirmación antes de finalizar una partida por abandono.</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Confirmar antes de abandonar</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>Activado</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>Desactivado</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. Todos los derechos reservados.</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Acerca de Twelve Ranks</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>Entorno de ejecución e implementación</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>.NET 10 y los componentes del entorno de ejecución de Windows App SDK se incluyen en los paquetes Release para x86, x64 y ARM64.</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · .NET autocontenido</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>Dependencias y referencias</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — incluido con los paquetes Release</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 y WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Gráficos de Noto Sans Symbols 2 — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>Los archivos de licencias y atribuciones de terceros se incluyen con la aplicación instalada.</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>Notas de la versión</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>Expande esta sección para revisar los cambios incluidos en cada versión de Twelve Ranks.</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Notas de la versión e historial de versiones</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>Versión preliminar inicial de la base jugable de Twelve Ranks.</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>Se incorporó un tablero jugable de 12 × 12 con 48 piezas.</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>Se añadieron los peones de la Guardia Real, el Ministro y el Canciller, con sus reglas personalizadas de movimiento e intercambio.</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>Se añadió el modo local para dos jugadores y un oponente convencional que funciona completamente sin conexión.</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>Se añadieron la validación de movimientos legales y la gestión del estado de la partida para jaque, jaque mate, ahogado, enroque, captura al paso, repetición, regla de las cincuenta jugadas y material insuficiente.</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>Se añadieron las funciones completas de deshacer y rehacer, además de la promoción a dama, torre, alfil, caballo, Ministro o Canciller.</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>Juegan las {0}</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>Las {0} están en jaque</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>Jaque mate — ganan las {0}</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>Ahogado — tablas</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>Tablas por triple repetición</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>Tablas por la regla de las cincuenta jugadas</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>Tablas por material insuficiente</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>Partida local para dos jugadores</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>blancas</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>negras</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>Rey</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>Dama</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>Torre</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>Alfil</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>Caballo</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>Peón</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>Ministro</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>Canciller</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>Peón de la Guardia Real</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{1}, {0}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>vacía</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>seleccionada</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>intercambio legal con el Ministro</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>captura legal</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>destino legal</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>La partida ha terminado. Esta casilla del tablero está disponible para su inspección.</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>Activa esta opción para intercambiar el Ministro seleccionado con este {0}.</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>Pulsa Entrar o Espacio para seleccionar esta casilla del tablero.</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>Opciones de pieza para la promoción</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>Elige la pieza para este peón.</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>Promocionar peón</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>Promocionar peón</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>Promocionar</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>Cancelar</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>Arzobispo</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>Promocionar a {0}</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>Selecciona {0} como pieza de promoción.</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>¿Salir de Twelve Ranks?</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>¿Seguro que quieres salir del juego?</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>Salir</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>Cancelar</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>Finalizar partida</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Finalizar la partida actual</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Finalizar la partida sin abandono</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0} abandona — gana {1}</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>Abandona {0}</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>¿Abandonar la partida?</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>¿Seguro que {0} quiere abandonar? Ganará {1}.</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>Abandonar</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>¿Finalizar la partida?</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>¿Finalizar esta partida sin declarar un ganador? Se eliminará la partida sin terminar.</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>Finalizar partida</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>No se pudo finalizar la partida</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>No se pudo eliminar la partida guardada. La partida seguirá abierta.</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>Cancelar</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>Cerrar</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>No se pudo guardar este movimiento. Inténtalo de nuevo antes de cerrar la partida.</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks no pudo reemplazar la partida guardada anterior. No se inició una nueva partida.</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>No se puede guardar la partida</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>Reglas</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Reanudar la partida sin terminar</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>Continúa tu partida sin terminar desde el último movimiento guardado.</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>Hay una partida anterior en curso. ¿Quieres reanudarla?</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>Nueva partida</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>Reanudar</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>Partida sin terminar</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>Reanudar partida</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>Cada bando comienza con 12 piezas en la fila trasera y 12 peones. El ejército ampliado añade dos Ministros y dos Cancilleres por bando.</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>Tablero de 12 × 12</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>El Canciller mueve y captura como una torre o un caballo.</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>Canciller</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>El Ministro mueve y captura como un alfil o un caballo. También puede intercambiar su posición con un rey o una dama aliados a los que pueda llegar, siempre que el movimiento deje al rey a salvo.</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>Ministro</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>Una guía breve de las reglas que difieren del ajedrez convencional.</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Cómo jugar a Twelve Ranks</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>Un peón normal que llega a la última fila se promociona a dama, torre, alfil, caballo, Ministro o Canciller.</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>Promoción</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>Los peones situados delante de la dama y el rey son Guardias Reales. Pueden mover una casilla hacia delante, hacia atrás o en diagonal, y avanzar dos casillas libres desde cualquier fila. No promocionan.</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>Peones de la Guardia Real</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>Da jaque mate al rey rival. Se aplican las reglas normales del ajedrez, incluidos el jaque, el enroque, la captura al paso, el ahogado y las reglas habituales de tablas.</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>El objetivo no cambia</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Iniciar una partida contra el ordenador</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>Jugar contra el ordenador</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>Juega con blancas contra el oponente convencional integrado.</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>Elige un modo de juego</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>¿Cómo quieres jugar?</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>Dos jugadores — local</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>Contra el equipo</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>El ordenador está pensando</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>Se añadieron gráficos de piezas escalables, paneles de piezas capturadas, resaltados del tablero, un estado de cálculo del ordenador y un selector visual de promoción.</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>El ordenador está pensando…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>Abandonar</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>Juegas con blancas — el ordenador juega con negras</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>Elige un modo de juego en Inicio.</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>Nueva partida</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>El ordenador no pudo encontrar un movimiento legal.</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>El movimiento del ordenador ya no era legal.</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>Se produjo un error en el oponente controlado por el ordenador.</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>El ordenador está pensando. La interacción con el tablero está deshabilitada temporalmente.</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>El ordenador controla las negras. La interacción con el tablero está deshabilitada temporalmente.</value></data>
+</root>

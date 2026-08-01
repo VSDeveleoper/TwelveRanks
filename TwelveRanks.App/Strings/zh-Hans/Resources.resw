@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>一款现代化的 12 × 12 国际象棋变体，支持本地对弈和人机对弈。</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>首页</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>对局</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>设置</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>选择如何开始一局新的 12 × 12 对局。</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>开始本地双人对局</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>本地双人</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>共用此设备，在同一棋盘上对弈。</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>棋盘</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>请从首页选择对局模式。</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>白方走棋</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>撤销</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>撤销走棋</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>撤销 (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>重做</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>重做走棋</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>重做 (Ctrl+Y 或 Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>白方吃掉的棋子</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>尚未吃掉棋子</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>黑方吃掉的棋子</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>尚未吃掉棋子</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>设置</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>应用设置</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>语言、棋盘坐标和走棋声音会自动保存。</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>语言</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>选择 Twelve Ranks 全局使用的语言。</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>语言设置</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>应用语言</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>应用重启后将应用语言更改。</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>应用语言</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>使用 Windows 语言（推荐）</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>需要重启</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>重启 Twelve Ranks 以在所有界面应用所选语言。</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>立即重启</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>立即重启 Twelve Ranks</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>需要重启</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>重启 Twelve Ranks 以在所有界面应用所选语言。</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>重启失败</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Twelve Ranks 无法重启（{0}）。请关闭并重新打开应用以应用该语言。</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>棋盘</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>在棋盘周围显示横纵坐标标签。</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>棋盘设置</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>显示棋盘坐标</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>在棋盘周围显示横纵坐标标签。</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>显示棋盘坐标</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>开</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>关</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>经典绿色</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>暖色木纹</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>高对比度</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>对局</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>配置走棋反馈和对局确认。</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>对局设置</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>播放走棋音效</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>走棋后播放声音反馈。</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>播放走棋音效</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>开</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>关</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>认输前确认</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>通过认输结束对局前请求确认。</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>认输前确认</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>开</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>关</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf。保留所有权利。</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>关于 Twelve Ranks</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>运行时和部署</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>.NET 10 和 Windows App SDK 运行时组件已包含在面向 x86、x64 和 ARM64 的 Release 包中。</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · 自包含 .NET</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>依赖项和参考资料</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — 已捆绑在 Release 包中</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 和 WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Noto Sans Symbols 2 图形 — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>已安装的应用中包含第三方许可和署名文件。</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>发行说明</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>展开以查看各 Twelve Ranks 版本中包含的更改。</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>发行说明和版本历史记录</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>可玩 Twelve Ranks 基础版本的初始开发预览。</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>引入具有 48 枚棋子的可玩 12 × 12 棋盘。</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>添加了皇家卫兵兵、大臣和宰相，以及它们的自定义移动和交换规则。</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>添加了本地双人对弈以及完全离线的传统电脑对手。</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>添加了合法走法验证，以及对将军、将死、逼和、王车易位、吃过路兵、重复局面、五十回合规则和子力不足等对局状态的处理。</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>添加了完整的撤销和重做功能，并支持将兵升变为后、车、象、马、大臣或宰相。</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>{0}走棋</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>{0}正被将军</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>将死 — {0}获胜</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>逼和 — 和棋</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>三次重复局面，和棋</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>根据五十回合规则，和棋</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>子力不足，和棋</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>本地双人对局</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>白方</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>黑方</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>王</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>后</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>车</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>象</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>马</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>兵</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>大臣</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>宰相</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>皇家卫兵兵</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{0}{1}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>空格</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>已选择</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>可与大臣交换</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>可吃子</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>可走位置</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}，{1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}，{1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>对局已结束。可检查此棋盘格。</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>激活以将所选大臣与此{0}交换。</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>按 Enter 或空格键选择此棋盘格。</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>升变棋子选项</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>选择此兵要升变为的棋子。</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>兵升变</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>兵升变</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>升变</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>取消</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>大主教</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>升变为{0}</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>选择{0}作为升变棋子。</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>退出 Twelve Ranks？</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>确定要退出游戏吗？</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>退出</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>取消</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>结束对局</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>结束当前对局</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>不以认输方式结束对局</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0}认输 — {1}获胜</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>{0}认输</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>认输？</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>确定要让{0}认输吗？{1}将获胜。</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>认输</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>结束对局？</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>要在不宣布获胜方的情况下结束此对局吗？未完成的对局将被删除。</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>结束对局</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>无法结束对局</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>无法删除已保存的对局。对局将保持打开状态。</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>取消</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>关闭</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>无法保存此步。请在关闭游戏前重试。</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks 无法替换之前保存的对局。未开始新对局。</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>无法保存对局</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>规则</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>继续未完成的对局</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>从上次保存的着法继续未完成的对局。</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>之前的对局仍在进行中。是否继续？</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>新对局</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>继续</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>未完成的对局</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>继续对局</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>每方开局时有12枚后排棋子和12枚兵。扩展后的军队为每方增加两枚大臣和两枚宰相。</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>12 × 12 棋盘</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>宰相的移动和吃子方式与车或马相同。</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>宰相</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>大臣的移动和吃子方式与象或马相同。它还可以与可到达的己方王或后交换位置，但交换后必须确保王的安全。</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>大臣</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>简要介绍与普通国际象棋不同的规则。</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Twelve Ranks 玩法</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>普通兵到达最远一排后，可升变为后、车、象、马、大臣或宰相。</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>升变</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>位于后和王前方的兵是皇家卫兵兵。它们可以向前、向后或斜向移动一格，也可以从任意一排向前移动两个空格。它们不能升变。</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>皇家卫兵兵</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>将死对方的王。适用普通国际象棋规则，包括将军、王车易位、吃过路兵、逼和及标准和棋规则。</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>目标不变</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>开始与电脑对局</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>与电脑对弈</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>执白方，与内置的传统电脑对手对弈。</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>选择游戏模式</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>你想怎么玩？</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>双人 — 本地</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>对战电脑</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>电脑正在思考</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>添加了可缩放棋子图形、被吃棋子面板、棋盘高亮、电脑思考状态和可视化升变选择器。</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>电脑正在思考…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>认输</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>您执白方 — 电脑执黑方</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>请从首页选择对局模式。</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>新对局</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>电脑找不到合法走法。</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>电脑选择的走法已不再合法。</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>电脑对手遇到错误。</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>电脑正在思考。棋盘输入暂时禁用。</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>电脑控制黑方。棋盘输入暂时禁用。</value></data>
+</root>

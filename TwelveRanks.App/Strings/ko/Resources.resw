@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>로컬 및 컴퓨터 대국을 지원하는 현대적인 12 × 12 체스 변형 게임입니다.</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>홈</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>대국</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>설정</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>새 12 × 12 대국을 시작할 방법을 선택하세요.</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>로컬 2인 대국 시작</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>로컬 2인 대국</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>이 기기를 함께 사용하여 같은 체스판에서 대국합니다.</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>체스판</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>홈에서 대국 모드를 선택하세요.</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>백 차례</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>실행 취소</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>수 실행 취소</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>실행 취소 (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>다시 실행</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>수 다시 실행</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>다시 실행 (Ctrl+Y 또는 Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>백이 잡은 기물</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>잡은 기물이 없습니다</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>흑이 잡은 기물</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>잡은 기물이 없습니다</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>설정</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>애플리케이션 설정</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>언어, 체스판 좌표 및 이동 소리는 자동으로 저장됩니다.</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>언어</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>Twelve Ranks 전체에서 사용할 언어를 선택합니다.</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>언어 설정</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>애플리케이션 언어</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>언어 변경 사항은 애플리케이션을 다시 시작한 후 적용됩니다.</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>애플리케이션 언어</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>Windows 언어 사용(권장)</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>다시 시작 필요</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>선택한 언어를 모든 화면에 적용하려면 Twelve Ranks를 다시 시작하세요.</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>지금 다시 시작</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>지금 Twelve Ranks 다시 시작</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>다시 시작 필요</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>선택한 언어를 모든 화면에 적용하려면 Twelve Ranks를 다시 시작하세요.</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>다시 시작 실패</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Twelve Ranks를 다시 시작할 수 없습니다({0}). 언어를 적용하려면 애플리케이션을 닫았다가 다시 여세요.</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>체스판</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>체스판 둘레에 열과 행 좌표 레이블을 표시합니다.</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>체스판 설정</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>체스판 좌표 표시</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>체스판 둘레에 열과 행 좌표 레이블을 표시합니다.</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>체스판 좌표 표시</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>켬</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>끔</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>클래식 그린</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>따뜻한 원목</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>고대비</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>대국</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>수 피드백과 대국 확인을 구성합니다.</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>대국 설정</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>수 효과음 재생</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>수를 둔 후 오디오 피드백을 재생합니다.</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>수 효과음 재생</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>켬</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>끔</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>기권 전 확인</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>기권으로 대국을 끝내기 전에 확인을 요청합니다.</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>기권 전 확인</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>켬</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>끔</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. 모든 권리 보유.</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Twelve Ranks 정보</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>런타임 및 배포</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>.NET 10 및 Windows App SDK 런타임 구성 요소는 x86, x64, ARM64용 Release 패키지에 포함됩니다.</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · 자체 포함 .NET</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>종속성 및 참조</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — Release 패키지에 번들로 제공</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 및 WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Noto Sans Symbols 2 아트워크 — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>설치된 애플리케이션에 타사 라이선스 및 저작자 표시 파일이 포함되어 있습니다.</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>릴리스 정보</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>펼쳐서 각 Twelve Ranks 버전에 포함된 변경 사항을 확인하세요.</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>릴리스 정보 및 버전 기록</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>플레이 가능한 Twelve Ranks 기반의 초기 개발 미리 보기입니다.</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>48개의 기물이 있는 플레이 가능한 12 × 12 체스판을 도입했습니다.</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>고유한 이동 및 교환 규칙을 갖춘 로열 가드 폰, 미니스터, 챈슬러를 추가했습니다.</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>로컬 2인 대국과 완전 오프라인 일반 컴퓨터 상대를 추가했습니다.</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>합법 수 검증과 체크, 체크메이트, 스테일메이트, 캐슬링, 앙파상, 3회 동형 반복, 50수 규칙 및 기물 부족에 대한 게임 상태 처리를 추가했습니다.</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>완전한 실행 취소 및 다시 실행 기능과 퀸, 룩, 비숍, 나이트, 미니스터 또는 챈슬러로의 승격을 추가했습니다.</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>{0} 차례</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>{0}이(가) 체크 상태입니다</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>체크메이트 — {0} 승리</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>스테일메이트 — 무승부</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>3회 동형 반복에 의한 무승부</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>50수 규칙에 의한 무승부</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>기물 부족에 의한 무승부</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>로컬 2인 대국</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>백</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>흑</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>킹</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>퀸</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>룩</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>비숍</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>나이트</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>폰</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>미니스터</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>챈슬러</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>로열 가드 폰</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{0} {1}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>빈 칸</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>선택됨</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>가능한 미니스터 교환</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>잡기 가능</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>이동 가능</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>대국이 끝났습니다. 이 체스판 칸을 확인할 수 있습니다.</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>선택한 미니스터를 이 {0}과(와) 교환하려면 실행하세요.</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>Enter 또는 Space를 눌러 이 체스판 칸을 선택하세요.</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>승격 기물 선택</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>이 폰이 승격할 기물을 선택하세요.</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>폰 승격</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>폰 승격</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>승격</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>취소</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>아치비숍</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>{0}(으)로 승격</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>{0}을(를) 승격 기물로 선택합니다.</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>Twelve Ranks를 종료하시겠습니까?</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>게임을 종료하시겠습니까?</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>종료</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>취소</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>대국 종료</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>현재 대국 종료</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>기권 없이 대국 종료</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0} 기권 — {1} 승리</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>{0} 기권</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>기권하시겠습니까?</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>{0}이(가) 기권하시겠습니까? {1}이(가) 승리합니다.</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>기권</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>대국을 종료하시겠습니까?</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>승자를 정하지 않고 이 대국을 종료하시겠습니까? 미완료 대국이 삭제됩니다.</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>대국 종료</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>대국을 종료할 수 없습니다</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>저장된 대국을 삭제할 수 없습니다. 대국은 열린 상태로 유지됩니다.</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>취소</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>닫기</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>이 수를 저장할 수 없습니다. 게임을 닫기 전에 다시 시도하세요.</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks에서 이전에 저장된 게임을 바꾸지 못했습니다. 새 게임은 시작되지 않았습니다.</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>게임을 저장할 수 없음</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>규칙</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>완료하지 않은 게임 계속</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>마지막으로 저장된 수부터 완료하지 않은 게임을 계속합니다.</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>이전 게임이 아직 진행 중입니다. 계속하시겠습니까?</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>새 게임</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>계속</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>완료하지 않은 게임</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>게임 계속</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>각 진영은 뒷줄의 기물 12개와 폰 12개로 시작합니다. 확장된 군대에는 각 진영마다 미니스터 2개와 챈슬러 2개가 추가됩니다.</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>12 × 12 보드</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>챈슬러는 룩 또는 나이트처럼 이동하고 기물을 잡습니다.</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>챈슬러</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>미니스터는 비숍 또는 나이트처럼 이동하고 기물을 잡습니다. 또한 이동 후 킹이 안전하다면 도달할 수 있는 아군 킹 또는 퀸과 자리를 바꿀 수 있습니다.</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>미니스터</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>일반 체스와 다른 규칙을 간단히 설명합니다.</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Twelve Ranks 플레이 방법</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>일반 폰이 마지막 랭크에 도달하면 퀸, 룩, 비숍, 나이트, 미니스터 또는 챈슬러로 승격합니다.</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>프로모션</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>퀸과 킹 앞의 폰은 로열 가드 폰입니다. 앞으로, 뒤로 또는 대각선으로 한 칸 이동할 수 있으며 어느 랭크에서든 앞쪽의 빈 두 칸으로 전진할 수 있습니다. 승격하지 않습니다.</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>로열 가드 폰</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>상대 킹을 체크메이트하세요. 체크, 캐슬링, 앙파상, 스테일메이트 및 표준 무승부 규칙을 포함한 일반 체스 규칙이 적용됩니다.</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>목표는 동일합니다</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>컴퓨터와 대국 시작</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>컴퓨터와 대국</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>백으로 플레이하여 내장된 일반 컴퓨터 상대와 대국합니다.</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>게임 모드 선택</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>어떻게 플레이하시겠습니까?</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>두 명 — 로컬</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>컴퓨터와 대결</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>컴퓨터가 생각 중입니다</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>크기 조절이 가능한 기물 아트워크, 잡힌 기물 패널, 체스판 강조 표시, 컴퓨터 생각 상태 및 시각적 승격 선택기를 추가했습니다.</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>컴퓨터가 생각 중입니다…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>기권</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>사용자는 백 — 컴퓨터는 흑</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>홈에서 대국 모드를 선택하세요.</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>새 대국</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>컴퓨터가 합법적인 수를 찾지 못했습니다.</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>컴퓨터의 수가 더 이상 합법적이지 않습니다.</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>컴퓨터 상대에 오류가 발생했습니다.</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>컴퓨터가 생각 중입니다. 체스판 입력이 일시적으로 비활성화되었습니다.</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>컴퓨터가 흑을 조종합니다. 체스판 입력이 일시적으로 비활성화되었습니다.</value></data>
+</root>

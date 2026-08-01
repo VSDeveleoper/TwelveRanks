@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="TwelveRanks.App.Views.SettingsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:toolkit="using:CommunityToolkit.WinUI.Controls">
+
+    <Grid Padding="32">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel
+            HorizontalAlignment="Center"
+            Spacing="12">
+            <FontIcon
+                x:Uid="SettingsIcon"
+                FontFamily="{ThemeResource SymbolThemeFontFamily}"
+                FontSize="24"
+                Glyph="&#xE713;"
+                HorizontalAlignment="Center" />
+            <TextBlock
+                x:Uid="SettingsTitle"
+                FontSize="28"
+                FontWeight="SemiBold"
+                HorizontalAlignment="Center"
+                TextAlignment="Center" />
+            <TextBlock
+                x:Uid="SettingsSubtitle"
+                MaxWidth="620"
+                Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                HorizontalAlignment="Center"
+                TextAlignment="Center"
+                TextWrapping="Wrap" />
+        </StackPanel>
+
+        <ScrollViewer
+            Grid.Row="1"
+            Margin="0,24,0,0"
+            HorizontalContentAlignment="Stretch">
+            <Grid HorizontalAlignment="Stretch">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="18*" MaxWidth="960" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel
+                    Grid.Column="1"
+                    HorizontalAlignment="Stretch"
+                    Spacing="16">
+                    <toolkit:SettingsExpander
+                        x:Name="LanguageSettingsExpander"
+                        x:Uid="LanguageSettingsExpander"
+                        AutomationProperties.AutomationId="LanguageSettingsExpander"
+                        IsExpanded="True">
+                        <toolkit:SettingsExpander.Items>
+                            <toolkit:SettingsCard
+                                x:Uid="ApplicationLanguageSettingsCard"
+                                IsClickEnabled="False">
+                                <ComboBox
+                                    x:Name="ApplicationLanguageComboBox"
+                                    x:Uid="ApplicationLanguageComboBox"
+                                    MinWidth="320"
+                                    AutomationProperties.AutomationId="ApplicationLanguageComboBox"
+                                    SelectionChanged="ApplicationLanguageComboBox_SelectionChanged">
+                                    <ComboBoxItem
+                                        x:Uid="SystemLanguageOption"
+                                        Tag="system" />
+                                    <ComboBoxItem
+                                        x:Uid="EnglishLanguageOption"
+                                        Tag="en-US" />
+                                    <ComboBoxItem
+                                        x:Uid="ArabicLanguageOption"
+                                        Tag="ar" />
+                                    <ComboBoxItem
+                                        x:Uid="SpanishLanguageOption"
+                                        Tag="es" />
+                                    <ComboBoxItem
+                                        x:Uid="FrenchLanguageOption"
+                                        Tag="fr" />
+                                    <ComboBoxItem
+                                        x:Uid="GermanLanguageOption"
+                                        Tag="de" />
+                                    <ComboBoxItem
+                                        x:Uid="PortugueseBrazilLanguageOption"
+                                        Tag="pt-BR" />
+                                    <ComboBoxItem
+                                        x:Uid="ChineseSimplifiedLanguageOption"
+                                        Tag="zh-Hans" />
+                                    <ComboBoxItem
+                                        x:Uid="ChineseTraditionalLanguageOption"
+                                        Tag="zh-Hant" />
+                                    <ComboBoxItem
+                                        x:Uid="JapaneseLanguageOption"
+                                        Tag="ja" />
+                                    <ComboBoxItem
+                                        x:Uid="KoreanLanguageOption"
+                                        Tag="ko" />
+                                    <ComboBoxItem
+                                        x:Uid="ItalianLanguageOption"
+                                        Tag="it" />
+                                    <ComboBoxItem
+                                        x:Uid="PolishLanguageOption"
+                                        Tag="pl" />
+                                    <ComboBoxItem
+                                        x:Uid="TurkishLanguageOption"
+                                        Tag="tr" />
+                                    <ComboBoxItem
+                                        x:Uid="HindiLanguageOption"
+                                        Tag="hi" />
+                                    <ComboBoxItem
+                                        x:Uid="DutchLanguageOption"
+                                        Tag="nl" />
+                                    <ComboBoxItem
+                                        x:Uid="IndonesianLanguageOption"
+                                        Tag="id" />
+                                    <ComboBoxItem
+                                        x:Uid="VietnameseLanguageOption"
+                                        Tag="vi" />
+                                    <ComboBoxItem
+                                        x:Uid="UkrainianLanguageOption"
+                                        Tag="uk" />
+                                </ComboBox>
+                            </toolkit:SettingsCard>
+                        </toolkit:SettingsExpander.Items>
+                    </toolkit:SettingsExpander>
+
+                    <InfoBar
+                        x:Name="LanguageRestartInfoBar"
+                        x:Uid="LanguageRestartInfoBar"
+                        AutomationProperties.AutomationId="LanguageRestartInfoBar"
+                        IsClosable="False"
+                        IsOpen="False"
+                        Severity="Informational">
+                        <InfoBar.ActionButton>
+                            <Button
+                                x:Uid="RestartApplicationButton"
+                                AutomationProperties.AutomationId="RestartApplicationButton"
+                                Click="RestartApplicationButton_Click" />
+                        </InfoBar.ActionButton>
+                    </InfoBar>
+
+                    <toolkit:SettingsExpander
+                        x:Name="BoardSettingsExpander"
+                        x:Uid="BoardSettingsExpander"
+                        AutomationProperties.AutomationId="BoardSettingsExpander"
+                        IsExpanded="True">
+                        <toolkit:SettingsExpander.Items>
+                            <toolkit:SettingsCard
+                                x:Uid="ShowBoardCoordinatesSettingsCard"
+                                IsClickEnabled="False">
+                                <ToggleSwitch
+                                    x:Name="ShowBoardCoordinatesToggle"
+                                    x:Uid="ShowBoardCoordinatesToggle"
+                                    AutomationProperties.AutomationId="ShowBoardCoordinatesToggle"
+                                    Toggled="ShowBoardCoordinatesToggle_Toggled" />
+                            </toolkit:SettingsCard>
+                        </toolkit:SettingsExpander.Items>
+                    </toolkit:SettingsExpander>
+
+                    <toolkit:SettingsExpander
+                        x:Name="GameSettingsExpander"
+                        x:Uid="GameSettingsExpander"
+                        AutomationProperties.AutomationId="GameSettingsExpander"
+                        IsExpanded="True">
+                        <toolkit:SettingsExpander.Items>
+                            <toolkit:SettingsCard
+                                x:Uid="PlayMoveSoundsSettingsCard"
+                                IsClickEnabled="False">
+                                <ToggleSwitch
+                                    x:Name="PlayMoveSoundsToggle"
+                                    x:Uid="PlayMoveSoundsToggle"
+                                    AutomationProperties.AutomationId="PlayMoveSoundsToggle"
+                                    Toggled="PlayMoveSoundsToggle_Toggled" />
+                            </toolkit:SettingsCard>
+
+                            <toolkit:SettingsCard
+                                x:Uid="ConfirmBeforeResigningSettingsCard"
+                                IsClickEnabled="False">
+                                <ToggleSwitch
+                                    x:Name="ConfirmBeforeResigningToggle"
+                                    x:Uid="ConfirmBeforeResigningToggle"
+                                    AutomationProperties.AutomationId="ConfirmBeforeResigningToggle"
+                                    Toggled="ConfirmBeforeResigningToggle_Toggled" />
+                            </toolkit:SettingsCard>
+                        </toolkit:SettingsExpander.Items>
+                    </toolkit:SettingsExpander>
+
+                    <toolkit:SettingsExpander
+                        x:Name="ApplicationSettingsExpander"
+                        x:Uid="ApplicationSettingsExpander"
+                        AutomationProperties.AutomationId="ApplicationSettingsExpander"
+                        IsExpanded="False">
+                        <toolkit:SettingsExpander.HeaderIcon>
+                            <ImageIcon Source="ms-appx:///Assets/Square44x44Logo.scale-200.png" />
+                        </toolkit:SettingsExpander.HeaderIcon>
+
+                        <TextBlock
+                            FontWeight="SemiBold"
+                            Text="{x:Bind CurrentVersion}"
+                            VerticalAlignment="Center" />
+
+                        <toolkit:SettingsExpander.Items>
+                            <toolkit:SettingsCard
+                                x:Uid="RuntimeDeploymentSettingsCard"
+                                AutomationProperties.AutomationId="RuntimeDeploymentSettingsCard"
+                                IsClickEnabled="False">
+                                <TextBlock
+                                    x:Uid="RuntimeDeploymentValue"
+                                    FontWeight="SemiBold"
+                                    TextWrapping="Wrap" />
+                            </toolkit:SettingsCard>
+
+                            <toolkit:SettingsCard
+                                x:Uid="DependenciesSettingsCard"
+                                AutomationProperties.AutomationId="DependenciesSettingsCard"
+                                ContentAlignment="Vertical"
+                                IsClickEnabled="False">
+                                <StackPanel Spacing="2">
+                                    <HyperlinkButton
+                                        x:Uid="DotNetDependencyLink"
+                                        HorizontalAlignment="Stretch"
+                                        HorizontalContentAlignment="Stretch"
+                                        NavigateUri="https://dotnet.microsoft.com/download/dotnet/10.0"
+                                        Padding="0,4" />
+                                    <HyperlinkButton
+                                        x:Uid="WindowsAppSdkDependencyLink"
+                                        HorizontalAlignment="Stretch"
+                                        HorizontalContentAlignment="Stretch"
+                                        NavigateUri="https://learn.microsoft.com/windows/apps/windows-app-sdk/"
+                                        Padding="0,4" />
+                                    <HyperlinkButton
+                                        x:Uid="WindowsSdkBuildToolsDependencyLink"
+                                        HorizontalAlignment="Stretch"
+                                        HorizontalContentAlignment="Stretch"
+                                        NavigateUri="https://developer.microsoft.com/windows/downloads/windows-sdk/"
+                                        Padding="0,4" />
+                                    <HyperlinkButton
+                                        x:Uid="WindowsCommunityToolkitDependencyLink"
+                                        HorizontalAlignment="Stretch"
+                                        HorizontalContentAlignment="Stretch"
+                                        NavigateUri="https://learn.microsoft.com/dotnet/communitytoolkit/windows/"
+                                        Padding="0,4" />
+                                    <HyperlinkButton
+                                        x:Uid="NotoArtworkDependencyLink"
+                                        HorizontalAlignment="Stretch"
+                                        HorizontalContentAlignment="Stretch"
+                                        NavigateUri="https://fonts.google.com/noto/specimen/Noto+Sans+Symbols+2"
+                                        Padding="0,4" />
+                                    <TextBlock
+                                        x:Uid="ThirdPartyLicenseNotice"
+                                        Margin="0,8,0,0"
+                                        Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                                        TextWrapping="Wrap" />
+                                </StackPanel>
+                            </toolkit:SettingsCard>
+                        </toolkit:SettingsExpander.Items>
+                    </toolkit:SettingsExpander>
+
+                    <toolkit:SettingsExpander
+                        x:Name="ReleaseNotesSettingsExpander"
+                        x:Uid="ReleaseNotesSettingsExpander"
+                        AutomationProperties.AutomationId="ReleaseNotesSettingsExpander"
+                        IsExpanded="False"
+                        ItemsSource="{x:Bind ReleaseNotes}">
+                        <toolkit:SettingsExpander.ItemTemplate>
+                            <DataTemplate>
+                                <toolkit:SettingsCard
+                                    Padding="16,10"
+                                    ContentAlignment="Left"
+                                    HorizontalContentAlignment="Stretch"
+                                    IsClickEnabled="False">
+                                    <StackPanel
+                                        HorizontalAlignment="Stretch"
+                                        Spacing="4">
+                                        <TextBlock
+                                            FontWeight="SemiBold"
+                                            Text="{Binding Version}" />
+                                        <TextBlock
+                                            Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                                            Text="{Binding Summary}"
+                                            TextWrapping="Wrap" />
+                                        <ItemsControl
+                                            Margin="0,4"
+                                            HorizontalAlignment="Stretch"
+                                            HorizontalContentAlignment="Stretch"
+                                            ItemsSource="{Binding Items}">
+                                            <ItemsControl.ItemTemplate>
+                                                <DataTemplate>
+                                                    <Grid
+                                                        Margin="0,3"
+                                                        ColumnSpacing="10"
+                                                        HorizontalAlignment="Stretch">
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="Auto" />
+                                                            <ColumnDefinition Width="*" />
+                                                        </Grid.ColumnDefinitions>
+
+                                                        <TextBlock
+                                                            FontSize="18"
+                                                            Text="•"
+                                                            VerticalAlignment="Top" />
+                                                        <TextBlock
+                                                            Grid.Column="1"
+                                                            Text="{Binding}"
+                                                            TextWrapping="Wrap"
+                                                            VerticalAlignment="Center" />
+                                                    </Grid>
+                                                </DataTemplate>
+                                            </ItemsControl.ItemTemplate>
+                                        </ItemsControl>
+                                    </StackPanel>
+                                </toolkit:SettingsCard>
+                            </DataTemplate>
+                        </toolkit:SettingsExpander.ItemTemplate>
+                    </toolkit:SettingsExpander>
+                </StackPanel>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>

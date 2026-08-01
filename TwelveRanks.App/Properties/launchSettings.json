@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TwelveRanks.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TwelveRanks.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>Сучасний варіант шахів 12 × 12 для локальної гри та гри проти комп’ютера.</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>Головна</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>Гра</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>Налаштування</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>Виберіть, як розпочати нову гру 12 × 12.</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Розпочати локальну гру для двох гравців</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>Два гравці — локально</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>Грайте вдвох на цьому пристрої за однією дошкою.</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>Ігрова дошка</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>Виберіть режим гри на головній сторінці.</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>Хід білих</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>Скасувати</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Скасувати хід</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Скасувати (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>Повторити</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Повторити хід</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Повторити (Ctrl+Y або Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>Взяті білими</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>Немає взятих фігур</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>Взяті чорними</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>Немає взятих фігур</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Налаштування</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>Налаштування програми</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>Мова, координати дошки та звуки ходів зберігаються автоматично.</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>Мова</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>Виберіть мову для всього інтерфейсу Twelve Ranks.</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Налаштування мови</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>Мова програми</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>Зміна мови набуде чинності після перезапуску програми.</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Мова програми</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>Використовувати мову Windows (рекомендовано)</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>Потрібен перезапуск</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>Перезапустіть Twelve Ranks, щоб застосувати вибрану мову всюди.</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>Перезапустити зараз</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Перезапустити Twelve Ranks зараз</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>Потрібен перезапуск</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>Перезапустіть Twelve Ranks, щоб застосувати вибрану мову всюди.</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>Не вдалося перезапустити</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Не вдалося перезапустити Twelve Ranks ({0}). Закрийте й знову відкрийте програму, щоб застосувати мову.</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>Дошка</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>Показувати позначення вертикалей і горизонталей навколо дошки.</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Налаштування дошки</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>Показувати координати дошки</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>Показувати позначення вертикалей і горизонталей навколо дошки.</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Показувати координати дошки</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>Увімкнено</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>Вимкнено</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>Класичний зелений</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>Тепле дерево</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>Висока контрастність</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>Гра</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>Налаштуйте звуковий супровід ходів і підтвердження в грі.</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Налаштування гри</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>Відтворювати звуки ходів</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>Відтворювати звуковий сигнал після ходу.</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Відтворювати звуки ходів</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>Увімкнено</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>Вимкнено</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>Підтверджувати здачу</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>Запитувати підтвердження перед завершенням гри шляхом здачі.</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Підтверджувати здачу</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>Увімкнено</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>Вимкнено</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. Усі права захищено.</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Про Twelve Ranks</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>Середовище виконання та розгортання</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>Компоненти середовища виконання .NET 10 і Windows App SDK включено до пакетів Release для x86, x64 і ARM64.</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · Автономне розгортання .NET</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>Залежності та посилання</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — входить до складу пакетів випуску</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 і WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Графіка Noto Sans Symbols 2 — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>Файли ліцензій і відомості про авторство третіх сторін установлюються разом із програмою.</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>Примітки до випуску</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>Розгорніть, щоб переглянути зміни в кожній версії Twelve Ranks.</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Примітки до випуску та журнал версій</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>Початкова ознайомча версія ігрової основи Twelve Ranks.</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>Додано ігрову дошку 12 × 12 із 48 фігурами.</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>Додано пішаки Королівської гвардії, Міністра й Канцлера з власними правилами ходів та обміну.</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>Додано локальну гру для двох гравців і класичного комп’ютерного суперника, який працює повністю офлайн.</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>Додано перевірку легальності ходів і обробку станів гри для шаху, мату, пату, рокірування, взяття на проході, повторення позиції, правила п’ятдесяти ходів і недостатності матеріалу.</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>Додано повне скасування й повторення ходів, а також перетворення на ферзя, туру, слона, коня, Міністра або Канцлера.</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>Хід сторони: {0}</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>Стороні «{0}» оголошено шах</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>Мат — перемагають {0}</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>Пат — нічия</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>Нічия через трикратне повторення позиції</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>Нічия за правилом п’ятдесяти ходів</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>Нічия через недостатність матеріалу</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>Локальна гра для двох гравців</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>Білі</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>Чорні</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>Король</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>Ферзь</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>Тура</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>Слон</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>Кінь</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>Пішак</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>Міністр</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>Канцлер</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>Пішак Королівської гвардії</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{1}, {0}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>порожня</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>вибрана</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>дозволений обмін Міністра</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>дозволене взяття</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>дозволена клітинка призначення</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>Гру завершено. Цю клітинку дошки можна переглянути.</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>Активуйте, щоб обміняти вибраного Міністра з фігурою «{0}».</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>Натисніть Enter або ПРОБІЛ, щоб вибрати цю клітинку дошки.</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>Варіанти фігур для перетворення</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>Виберіть фігуру для перетворення цього пішака.</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>Перетворення пішака</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>Перетворення пішака</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>Перетворити</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>Скасувати</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>Архієпископ</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>Перетворити на {0}</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>Вибрати фігуру «{0}» для перетворення.</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>Вийти з Twelve Ranks?</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>Ви впевнені, що хочете вийти з гри?</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>Вийти</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>Скасувати</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>Завершити гру</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Завершити поточну гру</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Завершити гру без здачі</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0} здається — перемагає {1}</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>{0} здається</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>Здатися?</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>Ви впевнені, що {0} хоче здатися? Переможе {1}.</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>Здатися</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>Завершити гру?</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>Завершити цю гру без оголошення переможця? Незавершену гру буде видалено.</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>Завершити гру</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>Не вдалося завершити гру</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>Не вдалося видалити збережену гру. Гра залишиться відкритою.</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>Скасувати</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>Закрити</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>Не вдалося зберегти цей хід. Спробуйте ще раз, перш ніж закрити гру.</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks не вдалося замінити попередню збережену гру. Нову гру не розпочато.</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>Збереження гри недоступне</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>Правила</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Продовжити незавершену гру</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>Продовжте незавершену гру з останнього збереженого ходу.</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>Попередня гра ще триває. Продовжити її?</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>Нова гра</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>Продовжити</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>Незавершена гра</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>Продовжити гру</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>Кожна сторона починає з 12 фігурами на задній горизонталі та 12 пішаками. Розширене військо додає по два Міністри й два Канцлери кожній стороні.</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>Дошка 12 × 12</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>Канцлер ходить і б’є як тура або кінь.</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>Канцлер</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>Міністр ходить і б’є як слон або кінь. Він також може помінятися місцями зі своїм королем або ферзем, до якого може дістатися, за умови, що після ходу король залишається в безпеці.</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>Міністр</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>Короткий довідник із правил, що відрізняються від звичайних шахів.</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Як грати в Twelve Ranks</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>Звичайний пішак, який досягає останньої горизонталі, перетворюється на ферзя, туру, слона, коня, Міністра або Канцлера.</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>Перетворення</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>Пішаки перед ферзем і королем — це пішаки Королівської гвардії. Вони можуть ходити на одну клітинку вперед, назад або по діагоналі, а також просуватися на дві вільні клітинки вперед із будь-якої горизонталі. Вони не перетворюються.</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>Пішаки Королівської гвардії</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>Поставте мат королю суперника. Застосовуються звичайні правила шахів, зокрема шах, рокіровка, взяття на проході, пат і стандартні правила нічиєї.</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>Мета залишається незмінною</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Розпочати гру проти комп’ютера</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>Грати проти комп’ютера</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>Грайте білими проти вбудованого класичного комп’ютерного суперника.</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>Виберіть режим гри</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>Як ви хочете грати?</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>Двоє гравців — локально</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>Проти комп’ютера</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Комп’ютер обмірковує хід</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>Додано масштабовану графіку фігур, панелі взятих фігур, підсвічування дошки, стан обмірковування ходу комп’ютером і візуальний засіб вибору перетворення.</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>Комп’ютер обмірковує хід…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>Здатися</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>Ви граєте білими — комп’ютер грає чорними</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>Виберіть режим гри на головній сторінці.</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>Нова гра</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>Комп’ютеру не вдалося знайти легальний хід.</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>Хід комп’ютера більше не є легальним.</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>Під час роботи комп’ютерного суперника сталася помилка.</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>Комп’ютер обмірковує хід. Взаємодію з дошкою тимчасово вимкнено.</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>Комп’ютер керує чорними. Взаємодію з дошкою тимчасово вимкнено.</value></data>
+</root>

@@ -1,0 +1,21 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="CodeMetricsConfig.txt" />
+    <File Path="Directory.Build.props" />
+  </Folder>
+  <Project Path="TwelveRanks.Computer/TwelveRanks.Computer.csproj" />
+  <Project Path="TwelveRanks.App/TwelveRanks.App.csproj">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="*|x86" Project="x86" />
+    <Deploy />
+  </Project>
+  <Project Path="TwelveRanks.Core/TwelveRanks.Core.csproj" />
+  <Project Path="TwelveRanks.Tests/TwelveRanks.Tests.csproj" />
+</Solution>

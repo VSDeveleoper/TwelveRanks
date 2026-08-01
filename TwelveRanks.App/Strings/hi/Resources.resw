@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>स्थानीय और कंप्यूटर के विरुद्ध खेलने के लिए शतरंज का एक आधुनिक 12 × 12 रूपांतर।</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>मुखपृष्ठ</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>खेल</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>सेटिंग्स</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>चुनें कि आप नया 12 × 12 खेल किस प्रकार शुरू करना चाहते हैं।</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>स्थानीय दो-खिलाड़ी खेल शुरू करें</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>दो खिलाड़ी — स्थानीय</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>इस डिवाइस को साझा करें और इसी बिसात पर खेलें।</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>खेल की बिसात</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>मुखपृष्ठ से कोई खेल मोड चुनें।</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>सफेद की चाल</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>पूर्ववत करें</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>चाल पूर्ववत करें</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>पूर्ववत करें (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>फिर से करें</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>चाल फिर से करें</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>फिर से करें (Ctrl+Y या Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>सफेद द्वारा लिए गए मोहरे</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>कोई मोहरा नहीं लिया गया</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>काले द्वारा लिए गए मोहरे</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>कोई मोहरा नहीं लिया गया</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>सेटिंग्स</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>एप्लिकेशन सेटिंग्स</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>भाषा, बिसात के निर्देशांक और चाल की ध्वनियाँ अपने आप सहेजी जाती हैं।</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>भाषा</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>पूरे Twelve Ranks में उपयोग की जाने वाली भाषा चुनें।</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>भाषा सेटिंग्स</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>एप्लिकेशन की भाषा</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>एप्लिकेशन के पुनः आरंभ होने के बाद भाषा परिवर्तन लागू होते हैं।</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>एप्लिकेशन की भाषा</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>Windows की भाषा उपयोग करें (अनुशंसित)</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>पुनः आरंभ आवश्यक है</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>चुनी हुई भाषा को हर जगह लागू करने के लिए Twelve Ranks को पुनः आरंभ करें।</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>अभी पुनः आरंभ करें</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Twelve Ranks को अभी पुनः आरंभ करें</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>पुनः आरंभ आवश्यक है</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>चुनी हुई भाषा को हर जगह लागू करने के लिए Twelve Ranks को पुनः आरंभ करें।</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>पुनः आरंभ विफल रहा</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Twelve Ranks पुनः आरंभ नहीं हो सका ({0})। भाषा लागू करने के लिए एप्लिकेशन को बंद करके फिर से खोलें।</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>बिसात</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>बिसात के चारों ओर स्तंभ और पंक्ति के लेबल दिखाएँ।</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>बिसात की सेटिंग्स</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>बिसात के निर्देशांक दिखाएँ</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>बिसात के चारों ओर स्तंभ और पंक्ति के लेबल दिखाएँ।</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>बिसात के निर्देशांक दिखाएँ</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>चालू</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>बंद</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>पारंपरिक हरा</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>गर्म लकड़ी</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>उच्च कंट्रास्ट</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>खेल</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>चाल की प्रतिक्रिया और खेल की पुष्टियाँ कॉन्फ़िगर करें।</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>खेल की सेटिंग्स</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>चाल की ध्वनियाँ चलाएँ</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>चाल के बाद ध्वनि प्रतिक्रिया चलाएँ।</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>चाल की ध्वनियाँ चलाएँ</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>चालू</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>बंद</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>खेल छोड़ने से पहले पुष्टि करें</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>खेल छोड़कर उसे समाप्त करने से पहले पुष्टि माँगें।</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>खेल छोड़ने से पहले पुष्टि करें</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>चालू</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>बंद</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. सर्वाधिकार सुरक्षित।</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Twelve Ranks के बारे में</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>रनटाइम और परिनियोजन</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>.NET 10 और Windows App SDK रनटाइम घटक x86, x64 और ARM64 के रिलीज़ पैकेजों में शामिल हैं।</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · स्व-निहित .NET</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>निर्भरताएँ और संदर्भ</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — Release पैकेजों के साथ शामिल</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 और WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Noto Sans Symbols 2 कलाकृति — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>इंस्टॉल किए गए एप्लिकेशन में तृतीय-पक्ष लाइसेंस और श्रेय फ़ाइलें शामिल हैं।</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>रिलीज़ नोट्स</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>हर Twelve Ranks संस्करण में शामिल बदलावों की समीक्षा करने के लिए विस्तार करें।</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>रिलीज़ नोट्स और संस्करण इतिहास</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>खेलने योग्य Twelve Ranks आधार का प्रारंभिक विकास पूर्वावलोकन।</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>48 मोहरों वाली खेलने योग्य 12 × 12 बिसात प्रस्तुत की गई।</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>विशेष चाल और अदला-बदली के नियमों के साथ शाही रक्षक प्यादे, मंत्री और चांसलर जोड़े गए।</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>स्थानीय दो-खिलाड़ी खेल और पूरी तरह ऑफ़लाइन पारंपरिक कंप्यूटर प्रतिद्वंद्वी जोड़ा गया।</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>शह, शह-मात, स्टेलमेट, कैसलिंग, एन पासां, पुनरावृत्ति, पचास-चाल नियम और अपर्याप्त मोहरों के लिए वैध चाल सत्यापन और खेल-स्थिति प्रबंधन जोड़ा गया।</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>पूरी तरह पूर्ववत और फिर से करने की सुविधा के साथ रानी, हाथी, ऊँट, घोड़े, मंत्री या चांसलर में पदोन्नति जोड़ी गई।</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>{0} की चाल</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>{0} को शह है</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>शह-मात — {0} विजयी</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>स्टेलमेट — ड्रॉ</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>स्थिति की तीन बार पुनरावृत्ति से ड्रॉ</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>पचास-चाल नियम से ड्रॉ</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>अपर्याप्त मोहरों के कारण ड्रॉ</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>स्थानीय दो-खिलाड़ी खेल</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>सफेद</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>काले</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>राजा</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>रानी</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>हाथी</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>ऊँट</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>घोड़ा</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>प्यादा</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>मंत्री</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>चांसलर</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>शाही रक्षक प्यादा</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{0} {1}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>खाली</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>चयनित</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>वैध मंत्री अदला-बदली</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>वैध कब्ज़ा</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>वैध गंतव्य</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>खेल समाप्त। बिसात का यह खाना निरीक्षण के लिए उपलब्ध है।</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>चुने गए मंत्री की इस {0} से अदला-बदली करने के लिए सक्रिय करें।</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>बिसात के इस खाने को चुनने के लिए Enter या Space दबाएँ।</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>पदोन्नति के मोहरों के विकल्प</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>इस प्यादे के लिए मोहरा चुनें।</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>प्यादे को पदोन्नत करें</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>प्यादे को पदोन्नत करें</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>पदोन्नत करें</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>रद्द करें</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>आर्कबिशप</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>{0} में पदोन्नत करें</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>पदोन्नति के मोहरे के रूप में {0} चुनें।</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>Twelve Ranks से बाहर निकलें?</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>क्या आप वाकई गेम से बाहर निकलना चाहते हैं?</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>बाहर निकलें</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>रद्द करें</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>खेल समाप्त करें</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>वर्तमान खेल समाप्त करें</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>बिना हार माने खेल समाप्त करें</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0} ने हार मानी — {1} जीता</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>{0} हार माने</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>खेल में हार मानें?</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>क्या आप सुनिश्चित हैं कि {0} हार मानना चाहता है? {1} जीतेगा।</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>हार मानें</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>खेल समाप्त करें?</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>बिना विजेता घोषित किए यह खेल समाप्त करें? अधूरा खेल हटा दिया जाएगा।</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>खेल समाप्त करें</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>खेल समाप्त नहीं हो सका</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>सहेजा गया खेल हटाया नहीं जा सका। खेल खुला रहेगा।</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>रद्द करें</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>बंद करें</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>यह चाल सहेजी नहीं जा सकी। खेल बंद करने से पहले फिर से प्रयास करें।</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks पिछली सहेजी गई बाज़ी को बदल नहीं सका। कोई नई बाज़ी शुरू नहीं हुई।</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>बाज़ी सहेजना उपलब्ध नहीं है</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>नियम</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>अधूरी बाज़ी फिर शुरू करें</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>अपनी अधूरी बाज़ी को उसकी अंतिम सहेजी गई चाल से जारी रखें।</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>पिछली बाज़ी अभी भी चल रही है। क्या आप उसे फिर शुरू करना चाहते हैं?</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>नई बाज़ी</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>फिर शुरू करें</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>अधूरी बाज़ी</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>बाज़ी फिर शुरू करें</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>हर पक्ष 12 पिछली-पंक्ति के मोहरों और 12 प्यादों से शुरू करता है। बड़ी सेना में हर पक्ष के दो मंत्री और दो चांसलर शामिल होते हैं।</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>12 × 12 बोर्ड</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>चांसलर हाथी या घोड़े की तरह चलता और मारता है।</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>चांसलर</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>मंत्री ऊँट या घोड़े की तरह चलता और मारता है। वह अपने ऐसे राजा या रानी से स्थान भी बदल सकता है जहाँ वह पहुँच सकता हो, बशर्ते चाल के बाद राजा सुरक्षित रहे।</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>मंत्री</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>उन नियमों की संक्षिप्त मार्गदर्शिका जो सामान्य शतरंज से अलग हैं।</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Twelve Ranks कैसे खेलें</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>अंतिम पंक्ति तक पहुँचने वाला सामान्य प्यादा रानी, हाथी, ऊँट, घोड़ा, मंत्री या चांसलर में पदोन्नत होता है।</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>पदोन्नति</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>रानी और राजा के सामने के प्यादे शाही रक्षक हैं। वे एक घर आगे, पीछे या तिरछे चल सकते हैं और किसी भी पंक्ति से दो खाली घर आगे बढ़ सकते हैं। उनका पदोन्नयन नहीं होता।</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>शाही रक्षक प्यादे</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>विरोधी राजा को मात दें। सामान्य शतरंज के नियम लागू होते हैं, जिनमें शह, कैसलिंग, एन पासां, स्टेलमेट और मानक ड्रॉ नियम शामिल हैं।</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>लक्ष्य अपरिवर्तित है</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>कंप्यूटर के विरुद्ध खेल शुरू करें</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>कंप्यूटर के विरुद्ध खेलें</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>अंतर्निहित पारंपरिक कंप्यूटर प्रतिद्वंद्वी के विरुद्ध सफेद मोहरों से खेलें।</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>खेल मोड चुनें</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>आप कैसे खेलना चाहते हैं?</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>दो खिलाड़ी — स्थानीय</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>कंप्यूटर के विरुद्ध</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>कंप्यूटर सोच रहा है</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>मापनीय मोहरा कलाकृति, लिए गए मोहरों के पैनल, बिसात हाइलाइट, कंप्यूटर की सोचने की स्थिति और दृश्य पदोन्नति चयनकर्ता जोड़े गए।</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>कंप्यूटर सोच रहा है…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>हार मानें</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>आप सफेद हैं — कंप्यूटर काले मोहरों से खेलता है</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>मुखपृष्ठ से कोई खेल मोड चुनें।</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>नया खेल</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>कंप्यूटर कोई वैध चाल नहीं ढूँढ़ सका।</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>कंप्यूटर की चाल अब वैध नहीं थी।</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>कंप्यूटर प्रतिद्वंद्वी में त्रुटि आई।</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>कंप्यूटर सोच रहा है। बिसात पर इनपुट अस्थायी रूप से अक्षम है।</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>कंप्यूटर काले मोहरों को नियंत्रित करता है। बिसात पर इनपुट अस्थायी रूप से अक्षम है।</value></data>
+</root>

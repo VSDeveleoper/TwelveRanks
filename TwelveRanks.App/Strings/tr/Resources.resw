@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>Yerel ve bilgisayara karşı oyun için modern bir 12 × 12 satranç çeşidi.</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>Ana Sayfa</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>Oyun</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>Ayarlar</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>Yeni bir 12 × 12 oyuna nasıl başlamak istediğinizi seçin.</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Yerel iki oyunculu oyun başlat</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>İki oyuncu — yerel</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>Bu cihazı paylaşın ve aynı tahta üzerinden oynayın.</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>Oyun tahtası</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>Ana Sayfa'dan bir oyun modu seçin.</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>Hamle sırası Beyazda</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>Geri al</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Hamleyi geri al</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Geri al (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>Yinele</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Hamleyi yinele</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Yinele (Ctrl+Y veya Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>Beyazın aldığı taşlar</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>Alınan taş yok</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>Siyahın aldığı taşlar</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>Alınan taş yok</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Ayarlar</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>Uygulama Ayarları</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>Dil, tahta koordinatları ve hamle sesleri otomatik olarak kaydedilir.</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>Dil</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>Twelve Ranks genelinde kullanılacak dili seçin.</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Dil ayarları</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>Uygulama dili</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>Dil değişiklikleri uygulama yeniden başlatıldıktan sonra uygulanır.</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Uygulama dili</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>Windows dilini kullan (önerilen)</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>Yeniden başlatma gerekiyor</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>Seçilen dili her yerde uygulamak için Twelve Ranks'i yeniden başlatın.</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>Şimdi yeniden başlat</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Twelve Ranks'i şimdi yeniden başlat</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>Yeniden başlatma gerekiyor</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>Seçilen dili her yerde uygulamak için Twelve Ranks'i yeniden başlatın.</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>Yeniden başlatma başarısız oldu</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Twelve Ranks yeniden başlatılamadı ({0}). Dili uygulamak için uygulamayı kapatıp yeniden açın.</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>Tahta</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>Tahtanın çevresinde sütun ve sıra etiketlerini gösterin.</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Tahta ayarları</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>Tahta koordinatlarını göster</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>Tahtanın çevresinde sütun ve sıra etiketlerini gösterin.</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Tahta koordinatlarını göster</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>Açık</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>Kapalı</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>Klasik yeşil</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>Sıcak ahşap</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>Yüksek karşıtlık</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>Oyun</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>Hamle geri bildirimlerini ve oyun onaylarını yapılandırın.</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Oyun ayarları</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>Hamle seslerini çal</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>Bir hamleden sonra sesli geri bildirim çalın.</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Hamle seslerini çal</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>Açık</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>Kapalı</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>Pes etmeden önce onayla</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>Bir oyunu pes ederek bitirmeden önce onay isteyin.</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Pes etmeden önce onayla</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>Açık</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>Kapalı</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. Tüm hakları saklıdır.</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Twelve Ranks hakkında</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>Çalışma zamanı ve dağıtım</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>.NET 10 ve Windows App SDK çalışma zamanı bileşenleri x86, x64 ve ARM64 için Release paketlerine dahildir.</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · Kendi kendine yeten .NET</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>Bağımlılıklar ve başvurular</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — Release paketlerine dâhildir</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 ve WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Noto Sans Symbols 2 çizimleri — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>Üçüncü taraf lisans ve atıf dosyaları yüklü uygulamaya dâhildir.</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>Sürüm Notları</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>Her Twelve Ranks sürümünde yer alan değişiklikleri incelemek için genişletin.</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Sürüm notları ve sürüm geçmişi</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>Oynanabilir Twelve Ranks temelinin ilk geliştirme önizlemesi.</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>48 taşlı, oynanabilir bir 12 × 12 tahta sunuldu.</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>Özel hareket ve değişim kurallarıyla Kraliyet Muhafızı piyonları, Bakan ve Şansölye eklendi.</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>Yerel iki oyunculu oyun ile tamamen çevrimdışı geleneksel bilgisayar rakibi eklendi.</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>Şah, şah mat, pat, rok, geçerken alma, konum tekrarı, elli hamle kuralı ve yetersiz materyal için geçerli hamle doğrulaması ve oyun durumu yönetimi eklendi.</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>Tam geri alma ve yineleme ile vezir, kale, fil, at, Bakan veya Şansölyeye terfi eklendi.</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>Hamle sırası {0} tarafında</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>{0} şah altında</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>Şah mat — {0} kazandı</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>Pat — beraberlik</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>Üç kez konum tekrarı nedeniyle beraberlik</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>Elli hamle kuralı nedeniyle beraberlik</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>Yetersiz materyal nedeniyle beraberlik</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>Yerel iki oyunculu oyun</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>Beyaz</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>Siyah</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>Şah</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>Vezir</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>Kale</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>Fil</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>At</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>Piyon</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>Bakan</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>Şansölye</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>Kraliyet Muhafızı piyonu</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{0} {1}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>boş</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>seçili</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>geçerli Bakan değişimi</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>geçerli alma</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>geçerli hedef</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}, {1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>Oyun bitti. Bu tahta karesi incelenebilir.</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>Seçilen Bakanı bu {0} ile değiştirmek için etkinleştirin.</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>Bu tahta karesini seçmek için Enter veya Boşluk tuşuna basın.</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>Terfi taşı seçenekleri</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>Bu piyon için taşı seçin.</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>Piyonu terfi ettir</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>Piyonu terfi ettir</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>Terfi ettir</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>İptal</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>Başpiskopos</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>{0} taşına terfi ettir</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>Terfi taşı olarak {0} seçin.</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>Twelve Ranks'ten çıkılsın mı?</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>Oyundan çıkmak istediğinizden emin misiniz?</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>Çık</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>İptal</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>Oyunu bitir</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Geçerli oyunu bitir</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>Pes etmeden oyunu bitir</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0} pes etti — {1} kazandı</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>{0} pes eder</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>Pes edilsin mi?</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>{0} tarafının pes etmesini onaylıyor musunuz? {1} kazanacak.</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>Pes et</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>Oyun bitirilsin mi?</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>Bu oyun kazanan ilan edilmeden bitirilsin mi? Tamamlanmamış oyun kaldırılacak.</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>Oyunu bitir</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>Oyun bitirilemedi</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>Kaydedilmiş oyun kaldırılamadı. Oyun açık kalacak.</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>İptal</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>Kapat</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>Bu hamle kaydedilemedi. Oyunu kapatmadan önce yeniden deneyin.</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks önceki kayıtlı oyunun yerini alamadı. Yeni oyun başlatılmadı.</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>Oyun kaydedilemiyor</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>Kurallar</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Tamamlanmamış oyuna devam et</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>Tamamlanmamış oyununuza son kaydedilen hamleden devam edin.</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>Önceki oyun hâlâ devam ediyor. Sürdürmek istiyor musunuz?</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>Yeni oyun</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>Devam et</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>Tamamlanmamış oyun</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>Oyuna devam et</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>Her taraf arka sırada 12 taş ve 12 piyonla başlar. Genişletilmiş orduda her taraf için iki Bakan ve iki Şansölye bulunur.</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>12 × 12 tahta</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>Şansölye kale veya at gibi hareket eder ve taş alır.</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>Şansölye</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>Bakan fil veya at gibi hareket eder ve taş alır. Ayrıca, hamle sonunda şah güvende kalmak koşuluyla, ulaşabildiği dost bir şah veya vezirle yer değiştirebilir.</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>Bakan</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>Sıradan satrançtan farklı olan kurallar için kısa bir rehber.</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Twelve Ranks nasıl oynanır</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>Son sıraya ulaşan normal bir piyon; vezir, kale, fil, at, Bakan veya Şansölyeye terfi eder.</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>Terfi</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>Vezir ve şahın önündeki piyonlar Kraliyet Muhafızı piyonlarıdır. Bir kare ileri, geri veya çapraz hareket edebilir ve herhangi bir sıradan ileri doğru iki boş kare ilerleyebilirler. Terfi etmezler.</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>Kraliyet Muhafızı piyonları</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>Rakip şahı mat edin. Şah, rok, geçerken alma, pat ve standart beraberlik kuralları dâhil normal satranç kuralları geçerlidir.</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>Amaç değişmedi</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Bilgisayara karşı oyun başlat</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>Bilgisayara karşı oyna</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>Yerleşik geleneksel bilgisayar rakibine karşı Beyazlarla oynayın.</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>Oyun modu seçin</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>Nasıl oynamak istiyorsunuz?</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>İki oyuncu — yerel</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>Bilgisayara karşı</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Bilgisayar düşünüyor</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>Ölçeklenebilir taş çizimleri, alınan taş panelleri, tahta vurguları, bilgisayarın düşünme durumu ve görsel terfi seçicisi eklendi.</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>Bilgisayar düşünüyor…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>Pes et</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>Siz Beyazsınız — bilgisayar Siyahlarla oynar</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>Ana Sayfa&apos;dan bir oyun modu seçin.</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>Yeni oyun</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>Bilgisayar geçerli bir hamle bulamadı.</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>Bilgisayarın hamlesi artık geçerli değildi.</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>Bilgisayar rakibi bir hatayla karşılaştı.</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>Bilgisayar düşünüyor. Tahta girişi geçici olarak devre dışı.</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>Siyahları bilgisayar kontrol ediyor. Tahta girişi geçici olarak devre dışı.</value></data>
+</root>

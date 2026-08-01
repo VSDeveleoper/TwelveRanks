@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="AppDisplayName" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="AppDescription" xml:space="preserve"><value>ローカル対戦とコンピューター対戦に対応した、モダンな 12 × 12 チェスバリアントです。</value></data>
+
+  <data name="NavHome.Content" xml:space="preserve"><value>ホーム</value></data>
+  <data name="NavGame.Content" xml:space="preserve"><value>対局</value></data>
+  <data name="NavSettings.Content" xml:space="preserve"><value>設定</value></data>
+
+  <data name="HomeTitle.Text" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="HomeSubtitle.Text" xml:space="preserve"><value>新しい 12 × 12 の対局を始める方法を選択してください。</value></data>
+  <data name="NewLocalGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>ローカル2人対局を開始</value></data>
+  <data name="LocalGameTitle.Text" xml:space="preserve"><value>ローカル2人対戦</value></data>
+  <data name="LocalGameDescription.Text" xml:space="preserve"><value>この端末を共有し、同じ盤面で対戦します。</value></data>
+
+  <data name="GamePageTitle.Text" xml:space="preserve"><value>チェス盤</value></data>
+  <data name="GameModeText.Text" xml:space="preserve"><value>ホームから対局モードを選択してください。</value></data>
+  <data name="GameStatusText.Text" xml:space="preserve"><value>白の手番</value></data>
+  <data name="UndoButton.Label" xml:space="preserve"><value>元に戻す</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>指し手を元に戻す</value></data>
+  <data name="UndoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>元に戻す (Ctrl+Z)</value></data>
+  <data name="RedoButton.Label" xml:space="preserve"><value>やり直す</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>指し手をやり直す</value></data>
+  <data name="RedoButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>やり直す (Ctrl+Y または Ctrl+Shift+Z)</value></data>
+  <data name="CapturedByWhiteTitle.Text" xml:space="preserve"><value>白が取った駒</value></data>
+  <data name="CapturedByWhiteEmptyText.Text" xml:space="preserve"><value>取った駒はありません</value></data>
+  <data name="CapturedByBlackTitle.Text" xml:space="preserve"><value>黒が取った駒</value></data>
+  <data name="CapturedByBlackEmptyText.Text" xml:space="preserve"><value>取った駒はありません</value></data>
+
+  <data name="SettingsIcon.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>設定</value></data>
+  <data name="SettingsTitle.Text" xml:space="preserve"><value>アプリケーション設定</value></data>
+  <data name="SettingsSubtitle.Text" xml:space="preserve"><value>言語、盤面の座標、指し手の音は自動的に保存されます。</value></data>
+  <data name="LanguageSettingsExpander.Header" xml:space="preserve"><value>言語</value></data>
+  <data name="LanguageSettingsExpander.Description" xml:space="preserve"><value>Twelve Ranks 全体で使用する言語を選択します。</value></data>
+  <data name="LanguageSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>言語設定</value></data>
+  <data name="ApplicationLanguageSettingsCard.Header" xml:space="preserve"><value>アプリの言語</value></data>
+  <data name="ApplicationLanguageSettingsCard.Description" xml:space="preserve"><value>言語の変更はアプリの再起動後に適用されます。</value></data>
+  <data name="ApplicationLanguageComboBox.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>アプリの言語</value></data>
+  <data name="SystemLanguageOption.Content" xml:space="preserve"><value>Windows の言語を使用（推奨）</value></data>
+  <data name="EnglishLanguageOption.Content" xml:space="preserve"><value>English</value></data>
+  <data name="ArabicLanguageOption.Content" xml:space="preserve"><value>العربية</value></data>
+  <data name="SpanishLanguageOption.Content" xml:space="preserve"><value>Español</value></data>
+  <data name="FrenchLanguageOption.Content" xml:space="preserve"><value>Français</value></data>
+  <data name="GermanLanguageOption.Content" xml:space="preserve"><value>Deutsch</value></data>
+  <data name="PortugueseBrazilLanguageOption.Content" xml:space="preserve"><value>Português (Brasil)</value></data>
+  <data name="ChineseSimplifiedLanguageOption.Content" xml:space="preserve"><value>简体中文</value></data>
+  <data name="ChineseTraditionalLanguageOption.Content" xml:space="preserve"><value>繁體中文</value></data>
+  <data name="JapaneseLanguageOption.Content" xml:space="preserve"><value>日本語</value></data>
+  <data name="KoreanLanguageOption.Content" xml:space="preserve"><value>한국어</value></data>
+  <data name="ItalianLanguageOption.Content" xml:space="preserve"><value>Italiano</value></data>
+  <data name="PolishLanguageOption.Content" xml:space="preserve"><value>Polski</value></data>
+  <data name="TurkishLanguageOption.Content" xml:space="preserve"><value>Türkçe</value></data>
+  <data name="HindiLanguageOption.Content" xml:space="preserve"><value>हिन्दी</value></data>
+  <data name="DutchLanguageOption.Content" xml:space="preserve"><value>Nederlands</value></data>
+  <data name="IndonesianLanguageOption.Content" xml:space="preserve"><value>Bahasa Indonesia</value></data>
+  <data name="VietnameseLanguageOption.Content" xml:space="preserve"><value>Tiếng Việt</value></data>
+  <data name="UkrainianLanguageOption.Content" xml:space="preserve"><value>Українська</value></data>
+  <data name="LanguageRestartInfoBar.Title" xml:space="preserve"><value>再起動が必要です</value></data>
+  <data name="LanguageRestartInfoBar.Message" xml:space="preserve"><value>選択した言語をすべての画面に適用するには Twelve Ranks を再起動してください。</value></data>
+  <data name="RestartApplicationButton.Content" xml:space="preserve"><value>今すぐ再起動</value></data>
+  <data name="RestartApplicationButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Twelve Ranks を今すぐ再起動</value></data>
+  <data name="LanguageRestartTitle" xml:space="preserve"><value>再起動が必要です</value></data>
+  <data name="LanguageRestartMessage" xml:space="preserve"><value>選択した言語をすべての画面に適用するには Twelve Ranks を再起動してください。</value></data>
+  <data name="LanguageRestartFailedTitle" xml:space="preserve"><value>再起動できませんでした</value></data>
+  <data name="LanguageRestartFailedMessageFormat" xml:space="preserve"><value>Twelve Ranks を再起動できませんでした（{0}）。言語を適用するには、アプリを閉じてからもう一度開いてください。</value></data>
+
+  <data name="BoardSettingsExpander.Header" xml:space="preserve"><value>盤面</value></data>
+  <data name="BoardSettingsExpander.Description" xml:space="preserve"><value>盤面の周囲に筋と段のラベルを表示します。</value></data>
+  <data name="BoardSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>盤面の設定</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Header" xml:space="preserve"><value>盤面の座標を表示</value></data>
+  <data name="ShowBoardCoordinatesSettingsCard.Description" xml:space="preserve"><value>盤面の周囲に筋と段のラベルを表示します。</value></data>
+  <data name="ShowBoardCoordinatesToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>盤面の座標を表示</value></data>
+  <data name="ShowBoardCoordinatesToggle.OnContent" xml:space="preserve"><value>オン</value></data>
+  <data name="ShowBoardCoordinatesToggle.OffContent" xml:space="preserve"><value>オフ</value></data>
+  <data name="ClassicGreenOption.Content" xml:space="preserve"><value>クラシックグリーン</value></data>
+  <data name="WarmWoodOption.Content" xml:space="preserve"><value>温かみのある木目</value></data>
+  <data name="HighContrastOption.Content" xml:space="preserve"><value>ハイコントラスト</value></data>
+
+  <data name="GameSettingsExpander.Header" xml:space="preserve"><value>対局</value></data>
+  <data name="GameSettingsExpander.Description" xml:space="preserve"><value>指し手のフィードバックと対局の確認を設定します。</value></data>
+  <data name="GameSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>対局設定</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Header" xml:space="preserve"><value>指し手の効果音を再生</value></data>
+  <data name="PlayMoveSoundsSettingsCard.Description" xml:space="preserve"><value>駒を動かした後に効果音を再生します。</value></data>
+  <data name="PlayMoveSoundsToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>指し手の効果音を再生</value></data>
+  <data name="PlayMoveSoundsToggle.OnContent" xml:space="preserve"><value>オン</value></data>
+  <data name="PlayMoveSoundsToggle.OffContent" xml:space="preserve"><value>オフ</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Header" xml:space="preserve"><value>投了前に確認</value></data>
+  <data name="ConfirmBeforeResigningSettingsCard.Description" xml:space="preserve"><value>投了して対局を終了する前に確認します。</value></data>
+  <data name="ConfirmBeforeResigningToggle.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>投了前に確認</value></data>
+  <data name="ConfirmBeforeResigningToggle.OnContent" xml:space="preserve"><value>オン</value></data>
+  <data name="ConfirmBeforeResigningToggle.OffContent" xml:space="preserve"><value>オフ</value></data>
+
+  <data name="ApplicationSettingsExpander.Header" xml:space="preserve"><value>Twelve Ranks</value></data>
+  <data name="ApplicationSettingsExpander.Description" xml:space="preserve"><value>© 2026 A. Sharaf. 無断複製・転載を禁じます。</value></data>
+  <data name="ApplicationSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>Twelve Ranks について</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Header" xml:space="preserve"><value>ランタイムと展開</value></data>
+  <data name="RuntimeDeploymentSettingsCard.Description" xml:space="preserve"><value>.NET 10 と Windows App SDK のランタイム コンポーネントは、x86、x64、ARM64 向けの Release パッケージに含まれています。</value></data>
+  <data name="RuntimeDeploymentValue.Text" xml:space="preserve"><value>MSIX · 自己完結型 .NET</value></data>
+  <data name="DependenciesSettingsCard.Header" xml:space="preserve"><value>依存関係と参照</value></data>
+  <data name="DotNetDependencyLink.Content" xml:space="preserve"><value>.NET 10 Runtime — Release パッケージに同梱</value></data>
+  <data name="WindowsAppSdkDependencyLink.Content" xml:space="preserve"><value>Windows App SDK 2.3.1 および WinUI 3</value></data>
+  <data name="WindowsSdkBuildToolsDependencyLink.Content" xml:space="preserve"><value>Windows SDK Build Tools 10.0.28000.2526</value></data>
+  <data name="WindowsCommunityToolkitDependencyLink.Content" xml:space="preserve"><value>Windows Community Toolkit 8.2.251219</value></data>
+  <data name="NotoArtworkDependencyLink.Content" xml:space="preserve"><value>Noto Sans Symbols 2 アートワーク — SIL Open Font License 1.1</value></data>
+  <data name="ThirdPartyLicenseNotice.Text" xml:space="preserve"><value>インストールされたアプリには、第三者のライセンスおよび帰属表示ファイルが含まれています。</value></data>
+  <data name="ReleaseNotesSettingsExpander.Header" xml:space="preserve"><value>リリースノート</value></data>
+  <data name="ReleaseNotesSettingsExpander.Description" xml:space="preserve"><value>展開すると、Twelve Ranks の各バージョンに含まれる変更を確認できます。</value></data>
+  <data name="ReleaseNotesSettingsExpander.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>リリースノートとバージョン履歴</value></data>
+
+  <data name="ReleaseNoteSummary" xml:space="preserve"><value>プレイ可能な Twelve Ranks 基盤の初期開発プレビューです。</value></data>
+  <data name="ReleaseNoteItem1" xml:space="preserve"><value>48 個の駒を配置した、プレイ可能な 12 × 12 の盤面を導入しました。</value></data>
+  <data name="ReleaseNoteItem2" xml:space="preserve"><value>独自の移動・交換ルールを持つロイヤルガード・ポーン、ミニスター、チャンセラーを追加しました。</value></data>
+  <data name="ReleaseNoteItem3" xml:space="preserve"><value>ローカル2人対戦と、完全オフラインの従来型コンピューター対戦相手を追加しました。</value></data>
+  <data name="ReleaseNoteItem4" xml:space="preserve"><value>合法手の検証と、チェック、チェックメイト、ステイルメイト、キャスリング、アンパッサン、同一局面3回反復、50手ルール、戦力不足の局面処理を追加しました。</value></data>
+  <data name="ReleaseNoteItem5" xml:space="preserve"><value>完全な元に戻す・やり直し機能と、クイーン、ルーク、ビショップ、ナイト、ミニスター、チャンセラーへの昇格を追加しました。</value></data>
+
+  <data name="StatusActiveFormat" xml:space="preserve"><value>{0}の手番</value></data>
+  <data name="StatusCheckFormat" xml:space="preserve"><value>{0}にチェック</value></data>
+  <data name="StatusCheckmateFormat" xml:space="preserve"><value>チェックメイト — {0}の勝ち</value></data>
+  <data name="StatusStalemate" xml:space="preserve"><value>ステイルメイト — 引き分け</value></data>
+  <data name="StatusDrawByThreefoldRepetition" xml:space="preserve"><value>同一局面3回反復による引き分け</value></data>
+  <data name="StatusDrawByFiftyMoveRule" xml:space="preserve"><value>50手ルールによる引き分け</value></data>
+  <data name="StatusDrawByInsufficientMaterial" xml:space="preserve"><value>戦力不足による引き分け</value></data>
+  <data name="ModeLocalTwoPlayer" xml:space="preserve"><value>ローカル2人対局</value></data>
+
+  <data name="SideWhite" xml:space="preserve"><value>白</value></data>
+  <data name="SideBlack" xml:space="preserve"><value>黒</value></data>
+  <data name="PieceKing" xml:space="preserve"><value>キング</value></data>
+  <data name="PieceQueen" xml:space="preserve"><value>クイーン</value></data>
+  <data name="PieceRook" xml:space="preserve"><value>ルーク</value></data>
+  <data name="PieceBishop" xml:space="preserve"><value>ビショップ</value></data>
+  <data name="PieceKnight" xml:space="preserve"><value>ナイト</value></data>
+  <data name="PiecePawn" xml:space="preserve"><value>ポーン</value></data>
+  <data name="PieceMinister" xml:space="preserve"><value>ミニスター</value></data>
+  <data name="PieceChancellor" xml:space="preserve"><value>チャンセラー</value></data>
+  <data name="PieceRoyalGuardPawn" xml:space="preserve"><value>ロイヤルガード・ポーン</value></data>
+  <data name="PieceDescriptionFormat" xml:space="preserve"><value>{0}の{1}</value></data>
+
+  <data name="SquareEmpty" xml:space="preserve"><value>空き</value></data>
+  <data name="SquareStateSelected" xml:space="preserve"><value>選択済み</value></data>
+  <data name="SquareStateLegalMinisterExchange" xml:space="preserve"><value>ミニスターと交換可能</value></data>
+  <data name="SquareStateLegalCapture" xml:space="preserve"><value>取ることが可能</value></data>
+  <data name="SquareStateLegalDestination" xml:space="preserve"><value>移動可能</value></data>
+  <data name="SquareContentAndStateFormat" xml:space="preserve"><value>{0}、{1}</value></data>
+  <data name="SquareAutomationNameFormat" xml:space="preserve"><value>{0}、{1}</value></data>
+  <data name="SquareHelpGameOver" xml:space="preserve"><value>対局は終了しました。このマスは確認できます。</value></data>
+  <data name="SquareHelpMinisterExchangeFormat" xml:space="preserve"><value>選択中のミニスターをこの{0}と交換するには実行してください。</value></data>
+  <data name="SquareHelpSelect" xml:space="preserve"><value>Enter または Space を押してこのマスを選択します。</value></data>
+
+  <data name="PromotionChoicesAutomationName" xml:space="preserve"><value>昇格する駒の選択肢</value></data>
+  <data name="PromotionInstruction" xml:space="preserve"><value>このポーンを昇格させる駒を選択してください。</value></data>
+  <data name="PromotionDialogTitle" xml:space="preserve"><value>ポーンを昇格</value></data>
+  <data name="PromotionDialogAutomationName" xml:space="preserve"><value>ポーンを昇格</value></data>
+  <data name="PromotionConfirm" xml:space="preserve"><value>昇格</value></data>
+  <data name="PromotionCancel" xml:space="preserve"><value>キャンセル</value></data>
+  <data name="PromotionPieceArchbishop" xml:space="preserve"><value>アーチビショップ</value></data>
+  <data name="PromotionOptionAutomationNameFormat" xml:space="preserve"><value>{0}に昇格</value></data>
+  <data name="PromotionOptionHelpTextFormat" xml:space="preserve"><value>昇格する駒として{0}を選択します。</value></data>
+  <data name="ExitGameDialogTitle" xml:space="preserve"><value>Twelve Ranks を終了しますか？</value></data>
+  <data name="ExitGameDialogMessage" xml:space="preserve"><value>ゲームを終了してもよろしいですか？</value></data>
+  <data name="ExitGameDialogExitButton" xml:space="preserve"><value>終了</value></data>
+  <data name="ExitGameDialogCancelButton" xml:space="preserve"><value>キャンセル</value></data>
+  <data name="EndGameButton.Label" xml:space="preserve"><value>対局を終了</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>現在の対局を終了</value></data>
+  <data name="EndGameButton.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve"><value>投了せずに対局を終了</value></data>
+  <data name="StatusResignedFormat" xml:space="preserve"><value>{0}が投了 — {1}の勝ち</value></data>
+  <data name="ResignSideButtonFormat" xml:space="preserve"><value>{0}が投了</value></data>
+  <data name="ResignDialogTitle" xml:space="preserve"><value>投了しますか？</value></data>
+  <data name="ResignDialogMessageFormat" xml:space="preserve"><value>{0}が投了してもよろしいですか？{1}の勝ちになります。</value></data>
+  <data name="ResignDialogConfirmButton" xml:space="preserve"><value>投了</value></data>
+  <data name="EndGameDialogTitle" xml:space="preserve"><value>対局を終了しますか？</value></data>
+  <data name="EndGameDialogMessage" xml:space="preserve"><value>勝者を決めずにこの対局を終了しますか？未完了の対局は削除されます。</value></data>
+  <data name="EndGameDialogConfirmButton" xml:space="preserve"><value>対局を終了</value></data>
+  <data name="EndGameUnavailableTitle" xml:space="preserve"><value>対局を終了できませんでした</value></data>
+  <data name="EndGameUnavailableMessage" xml:space="preserve"><value>保存された対局を削除できませんでした。対局は開いたままです。</value></data>
+
+  <data name="GameDialogCancelButton" xml:space="preserve"><value>キャンセル</value></data>
+  <data name="GameDialogCloseButton" xml:space="preserve"><value>閉じる</value></data>
+  <data name="GameSaveFailed" xml:space="preserve"><value>この手を保存できませんでした。ゲームを閉じる前にもう一度お試しください。</value></data>
+  <data name="GameSaveUnavailableMessage" xml:space="preserve"><value>Twelve Ranks は以前の保存済みゲームを置き換えられませんでした。新しいゲームは開始されていません。</value></data>
+  <data name="GameSaveUnavailableTitle" xml:space="preserve"><value>ゲームを保存できません</value></data>
+  <data name="NavRules.Content" xml:space="preserve"><value>ルール</value></data>
+  <data name="ResumeGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>未完了のゲームを再開</value></data>
+  <data name="ResumeGameDescription.Text" xml:space="preserve"><value>最後に保存された手から未完了のゲームを続けます。</value></data>
+  <data name="ResumeGameDialogMessage" xml:space="preserve"><value>前のゲームがまだ進行中です。再開しますか？</value></data>
+  <data name="ResumeGameDialogNewGameButton" xml:space="preserve"><value>新しいゲーム</value></data>
+  <data name="ResumeGameDialogResumeButton" xml:space="preserve"><value>再開</value></data>
+  <data name="ResumeGameDialogTitle" xml:space="preserve"><value>未完了のゲーム</value></data>
+  <data name="ResumeGameTitle.Text" xml:space="preserve"><value>ゲームを再開</value></data>
+  <data name="RulesBoardAndArmyBody.Text" xml:space="preserve"><value>各陣営は後列の12個の駒と12個のポーンで始めます。拡張された軍には、各陣営にミニスター2個とチャンセラー2個が加わります。</value></data>
+  <data name="RulesBoardAndArmyTitle.Text" xml:space="preserve"><value>12 × 12 ボード</value></data>
+  <data name="RulesChancellorBody.Text" xml:space="preserve"><value>チャンセラーはルークまたはナイトのように移動し、駒を取ります。</value></data>
+  <data name="RulesChancellorTitle.Text" xml:space="preserve"><value>チャンセラー</value></data>
+  <data name="RulesMinisterBody.Text" xml:space="preserve"><value>ミニスターはビショップまたはナイトのように移動し、駒を取ります。また、移動後もキングが安全であれば、到達可能な味方のキングまたはクイーンと位置を交換できます。</value></data>
+  <data name="RulesMinisterTitle.Text" xml:space="preserve"><value>ミニスター</value></data>
+  <data name="RulesPageSubtitle.Text" xml:space="preserve"><value>通常のチェスと異なるルールの簡単なガイドです。</value></data>
+  <data name="RulesPageTitle.Text" xml:space="preserve"><value>Twelve Ranks の遊び方</value></data>
+  <data name="RulesPromotionBody.Text" xml:space="preserve"><value>通常のポーンが最終ランクに到達すると、クイーン、ルーク、ビショップ、ナイト、ミニスター、またはチャンセラーに昇格します。</value></data>
+  <data name="RulesPromotionTitle.Text" xml:space="preserve"><value>プロモーション</value></data>
+  <data name="RulesRoyalGuardBody.Text" xml:space="preserve"><value>クイーンとキングの前にいるポーンはロイヤルガード・ポーンです。1マス前、後ろ、または斜めに移動でき、どのランクからでも前方の空いている2マスへ進めます。昇格はしません。</value></data>
+  <data name="RulesRoyalGuardTitle.Text" xml:space="preserve"><value>ロイヤルガード・ポーン</value></data>
+  <data name="RulesStandardChess.Message" xml:space="preserve"><value>相手のキングをチェックメイトしてください。チェック、キャスリング、アンパッサン、ステイルメイト、標準的な引き分け規則を含む通常のチェスルールが適用されます。</value></data>
+  <data name="RulesStandardChess.Title" xml:space="preserve"><value>目的は変わりません</value></data>
+  <data name="NewComputerGame.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>コンピューターとの対局を開始</value></data>
+  <data name="ComputerGameTitle.Text" xml:space="preserve"><value>コンピューターと対戦</value></data>
+  <data name="ComputerGameDescription.Text" xml:space="preserve"><value>白を持ち、内蔵の従来型コンピューター対戦相手と対局します。</value></data>
+  <data name="ChooseGameModeDialogTitle" xml:space="preserve"><value>ゲームモードを選択</value></data>
+  <data name="ChooseGameModeDialogMessage" xml:space="preserve"><value>どのようにプレイしますか？</value></data>
+  <data name="ChooseGameModeDialogLocalButton" xml:space="preserve"><value>2人 — ローカル</value></data>
+  <data name="ChooseGameModeDialogComputerButton" xml:space="preserve"><value>コンピューターと対戦</value></data>
+  <data name="ComputerThinkingIndicator.[using:Microsoft.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve"><value>コンピューターが思考中</value></data>
+  <data name="ReleaseNoteItem6" xml:space="preserve"><value>拡大縮小できる駒のアートワーク、取った駒のパネル、盤面の強調表示、コンピューターの思考状態、視覚的な昇格選択画面を追加しました。</value></data>
+  <data name="StatusComputerThinking" xml:space="preserve"><value>コンピューターが思考中…</value></data>
+  <data name="ResignButton" xml:space="preserve"><value>投了</value></data>
+  <data name="ModeComputer" xml:space="preserve"><value>あなたは白 — コンピューターは黒</value></data>
+  <data name="ModeChooseFromHome" xml:space="preserve"><value>ホームから対局モードを選択してください。</value></data>
+  <data name="ModeNewGame" xml:space="preserve"><value>新しい対局</value></data>
+  <data name="ComputerNoLegalMove" xml:space="preserve"><value>コンピューターは合法手を見つけられませんでした。</value></data>
+  <data name="ComputerMoveNoLongerLegal" xml:space="preserve"><value>コンピューターの指し手は無効になりました。</value></data>
+  <data name="ComputerOpponentError" xml:space="preserve"><value>コンピューター対戦相手でエラーが発生しました。</value></data>
+  <data name="SquareHelpComputerThinking" xml:space="preserve"><value>コンピューターが思考中です。盤面の操作は一時的に無効です。</value></data>
+  <data name="SquareHelpComputerControlsBlack" xml:space="preserve"><value>コンピューターが黒を操作しています。盤面の操作は一時的に無効です。</value></data>
+</root>

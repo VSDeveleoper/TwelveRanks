@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="TwelveRanks.App.Views.RulesPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ScrollViewer
+        HorizontalContentAlignment="Stretch"
+        VerticalScrollBarVisibility="Auto">
+        <Grid Padding="32">
+            <StackPanel
+                MaxWidth="840"
+                HorizontalAlignment="Center"
+                Spacing="22">
+                <StackPanel Spacing="8">
+                    <TextBlock
+                        x:Uid="RulesPageTitle"
+                        AutomationProperties.AutomationId="RulesPageTitle"
+                        FontSize="32"
+                        FontWeight="SemiBold"
+                        TextWrapping="Wrap" />
+                    <TextBlock
+                        x:Uid="RulesPageSubtitle"
+                        Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                        TextWrapping="Wrap" />
+                </StackPanel>
+
+                <InfoBar
+                    x:Uid="RulesStandardChess"
+                    AutomationProperties.AutomationId="RulesStandardChess"
+                    IsClosable="False"
+                    IsOpen="True"
+                    Severity="Informational" />
+
+                <StackPanel Spacing="6">
+                    <TextBlock
+                        x:Uid="RulesBoardAndArmyTitle"
+                        FontSize="20"
+                        FontWeight="SemiBold" />
+                    <TextBlock
+                        x:Uid="RulesBoardAndArmyBody"
+                        TextWrapping="Wrap" />
+                </StackPanel>
+
+                <StackPanel Spacing="6">
+                    <TextBlock
+                        x:Uid="RulesMinisterTitle"
+                        FontSize="20"
+                        FontWeight="SemiBold" />
+                    <TextBlock
+                        x:Uid="RulesMinisterBody"
+                        TextWrapping="Wrap" />
+                </StackPanel>
+
+                <StackPanel Spacing="6">
+                    <TextBlock
+                        x:Uid="RulesChancellorTitle"
+                        FontSize="20"
+                        FontWeight="SemiBold" />
+                    <TextBlock
+                        x:Uid="RulesChancellorBody"
+                        TextWrapping="Wrap" />
+                </StackPanel>
+
+                <StackPanel Spacing="6">
+                    <TextBlock
+                        x:Uid="RulesRoyalGuardTitle"
+                        FontSize="20"
+                        FontWeight="SemiBold" />
+                    <TextBlock
+                        x:Uid="RulesRoyalGuardBody"
+                        TextWrapping="Wrap" />
+                </StackPanel>
+
+                <StackPanel Spacing="6">
+                    <TextBlock
+                        x:Uid="RulesPromotionTitle"
+                        FontSize="20"
+                        FontWeight="SemiBold" />
+                    <TextBlock
+                        x:Uid="RulesPromotionBody"
+                        TextWrapping="Wrap" />
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Page>
