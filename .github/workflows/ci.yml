@@ -37,7 +37,7 @@ jobs:
 
       - name: Restore
         shell: pwsh
-        run: dotnet restore .\TwelveRanks.slnx -p:Platform=x64
+        run: dotnet restore .\TwelveRanks.slnx -p:Configuration=Release -p:Platform=x64
 
       - name: Build without packaging or launching
         shell: pwsh
@@ -57,5 +57,4 @@ jobs:
           --configuration Release
           --no-build
           --no-restore
-          -p:Platform=x64
           --logger "console;verbosity=normal"
