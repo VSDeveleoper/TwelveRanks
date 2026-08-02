@@ -1,0 +1,49 @@
+name: Feature request
+description: Propose a focused product or engineering improvement.
+title: "[Feature] "
+labels: []
+assignees: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: Explain the user need before proposing an implementation.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed outcome
+      description: Describe the desired behavior and what would count as complete.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: dropdown
+    id: connectivity
+    attributes:
+      label: Does this introduce an online or AI dependency?
+      options:
+        - No
+        - Yes, online service
+        - Yes, AI model or AI service
+        - Unsure
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Compatibility, privacy, accessibility, and localization impact
+      description: Address save compatibility, permissions, data handling, UI access, and translated strings.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Proposal confirmation
+      options:
+        - label: I understand that opening this proposal does not guarantee implementation or acceptance.
+          required: true

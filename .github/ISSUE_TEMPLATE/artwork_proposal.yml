@@ -1,0 +1,48 @@
+name: Artwork proposal
+description: Propose a board, piece-set, or visual-system contribution.
+title: "[Artwork] "
+labels: []
+assignees: []
+body:
+  - type: textarea
+    id: concept
+    attributes:
+      label: Concept and scope
+      description: Describe the coordinated visual system and the assets it covers.
+    validations:
+      required: true
+  - type: input
+    id: portfolio
+    attributes:
+      label: Portfolio or representative work
+      description: Provide a public link when available. Do not include private contact details.
+  - type: textarea
+    id: files
+    attributes:
+      label: Editable sources and export process
+      description: List source formats, tools, fonts, and how distributable files will be generated.
+    validations:
+      required: true
+  - type: textarea
+    id: provenance
+    attributes:
+      label: Ownership, references, and licensing
+      description: Identify the copyright holder and every external reference, asset, font, tool, and license.
+    validations:
+      required: true
+  - type: textarea
+    id: accessibility
+    attributes:
+      label: Scaling and accessibility
+      description: Explain silhouette clarity, contrast, high-DPI behavior, and light/dark background handling.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rights confirmation
+      options:
+        - label: I created the proposed work or have documented rights to submit every included component.
+          required: true
+        - label: I understand that acceptance, payment, sponsorship, and exclusivity require separate written agreement.
+          required: true

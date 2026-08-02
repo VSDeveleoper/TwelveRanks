@@ -3,16 +3,17 @@
 Twelve Ranks is a 12 × 12 chess variant for Windows. The current release offers
 local two-player play and a built-in conventional computer opponent with varied
 opening play that runs entirely offline. The project is licensed under the
-Apache License 2.0 and is
-being prepared for public development so that designers, developers,
+Apache License 2.0 and is prepared for public development so that designers,
+developers,
 researchers, and responsible technology partners can help shape its future.
 
-> **Publication status:** The public GitHub repository has not been published
-> yet. Its URL will be added here when publication is complete.
->
-> **GitHub repository:** To be added after the public repository is created.
+> **GitHub repository:**
+> [github.com/VSDeveleoper/TwelveRanks](https://github.com/VSDeveleoper/TwelveRanks)
 >
 > **Open-source license:** [Apache License 2.0](LICENSE).
+>
+> **Contribution guide:**
+> [CONTRIBUTING.md](https://github.com/VSDeveleoper/TwelveRanks/blob/main/CONTRIBUTING.md).
 
 ## Our current priority: visual designers
 
@@ -36,9 +37,9 @@ asset, font, reference, and license used. A contribution is not guaranteed to
 be accepted, and no paid engagement is created unless it is agreed separately
 in writing.
 
-Designers who are not familiar with Git can begin by opening a proposal in the
-future repository's issue or discussion area, sharing a portfolio or concept,
-and asking for help with the contribution workflow.
+Designers who are not familiar with Git can begin with the repository's
+[artwork proposal form](https://github.com/VSDeveleoper/TwelveRanks/issues/new?template=artwork_proposal.yml),
+share a portfolio or concept, and ask for help with the contribution workflow.
 
 ## Future opportunity: separate AI opponent partnership
 
@@ -82,12 +83,11 @@ product and security decisions.
 
 ## How contributions will work on GitHub
 
-After the public repository is available:
-
-1. Read the main README, this guide, the project license, and any contribution
-   rules.
-2. Before substantial work, open an issue or discussion describing the design,
-   feature, fix, or partnership proposal.
+1. Read the main README, this guide, the project license, the
+   [asset license inventory](https://github.com/VSDeveleoper/TwelveRanks/blob/main/ASSET_LICENSES.md),
+   and the contribution rules.
+2. Before substantial work, open the appropriate issue form describing the
+   design, feature, fix, or public partnership proposal.
 3. Fork the repository to your own GitHub account.
 4. Clone your fork to your computer and create a focused branch.
 5. Make and verify your changes, including tests and documentation where
@@ -119,5 +119,6 @@ Contributions should preserve:
 - honest Store and project descriptions that distinguish shipped features from
   future plans.
 
-Thank you for helping Twelve Ranks grow thoughtfully. The GitHub link and public
-proposal channels will be added here before publication.
+Thank you for helping Twelve Ranks grow thoughtfully. Start at the
+[Twelve Ranks GitHub repository](https://github.com/VSDeveleoper/TwelveRanks)
+and choose the issue form that best matches the proposed contribution.

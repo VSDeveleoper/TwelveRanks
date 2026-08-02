@@ -1,0 +1,55 @@
+name: Public partnership introduction
+description: Introduce a possible AI-service or multiplayer-infrastructure partnership.
+title: "[Partnership] "
+labels: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is public. Do not include confidential commercial terms,
+        credentials, personal data, or non-public technical information.
+  - type: input
+    id: organization
+    attributes:
+      label: Organization
+    validations:
+      required: true
+  - type: input
+    id: representative
+    attributes:
+      label: Public GitHub contact
+      description: Provide a GitHub username or public organization profile.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Partnership area
+      options:
+        - Future AI-service opponent
+        - Future online multiplayer infrastructure
+        - Design or artwork sponsorship
+        - Other public proposal
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Public proposal summary
+      description: Describe the capability and intended benefit without confidential details.
+    validations:
+      required: true
+  - type: textarea
+    id: safeguards
+    attributes:
+      label: Privacy, security, licensing, availability, and cost considerations
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Partnership confirmation
+      options:
+        - label: I understand this introduction creates no commitment, exclusivity, sponsorship, or right to alter project rules.
+          required: true

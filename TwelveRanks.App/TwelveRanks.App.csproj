@@ -115,6 +115,8 @@
     <Description>A modern 12 × 12 chess variant for Windows featuring the Minister, Chancellor, and Royal Guard pawns, with local two-player and fully offline conventional computer play.</Description>
     <Copyright>Copyright © 2026 A. Sharaf</Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/VSDeveleoper/TwelveRanks</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/VSDeveleoper/TwelveRanks.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageTags>chess;chess-variant;12x12;board-game;strategy-game;windows;winui;winui-3;dotnet;offline-game;open-source;apache-2.0</PackageTags>

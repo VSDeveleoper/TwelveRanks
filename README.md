@@ -8,6 +8,8 @@ The project is currently an initial development preview. Local two-player games
 and a built-in conventional computer opponent are available; both work entirely
 offline.
 
+Project home: [github.com/VSDeveleoper/TwelveRanks](https://github.com/VSDeveleoper/TwelveRanks)
+
 ## What changes from ordinary chess
 
 - The board has 12 files and 12 ranks.
@@ -85,15 +87,22 @@ winapp run .\TwelveRanks.App\bin\x64\Debug\net10.0-windows10.0.26100.0\win-x64 -
 
 ## Contributing
 
-The repository is being prepared for a public GitHub release. Contribution and
-issue links will be added after the repository URL is available. Designers,
-developers, and prospective AI or multiplayer sponsors can read
-[DEVELOPERS_README.md](DEVELOPERS_README.md) for the planned contribution and
-partnership process.
+Contributions are welcome through the
+[GitHub repository](https://github.com/VSDeveleoper/TwelveRanks). Read the
+[contribution guide](https://github.com/VSDeveleoper/TwelveRanks/blob/main/CONTRIBUTING.md)
+before opening an issue or pull request. Designers, developers, and prospective
+AI or multiplayer sponsors should also read
+[DEVELOPERS_README.md](DEVELOPERS_README.md) for the project priorities and
+partnership boundaries.
 
 Changes should remain deterministic and offline-first, include appropriate
 tests, preserve accessibility and localization behavior, and avoid exposing
 engine-only analysis through the player interface.
+
+Use the repository's issue forms for bugs, features, artwork proposals, and
+public partnership introductions. Report suspected vulnerabilities privately
+as described in
+[SECURITY.md](https://github.com/VSDeveleoper/TwelveRanks/blob/main/SECURITY.md).
 
 ## License
 
@@ -106,8 +115,9 @@ notice and attribution requirements.
 Third-party assets retain their respective licenses. Noto Sans Symbols 2
 artwork is used under the SIL Open Font License 1.1; the corresponding license
 and attribution files are included in the repository and installed
-application. See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the
-complete dependency inventory and
+application. See [ASSET_LICENSES.md](ASSET_LICENSES.md) for the asset inventory,
+[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the complete dependency
+inventory, and
 [TwelveRanks.App/Licenses](TwelveRanks.App/Licenses) for the distributable license
 texts.
 
